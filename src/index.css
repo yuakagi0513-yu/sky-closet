@@ -1,5 +1,89 @@
 @import "tailwindcss";
 
+/*
+ * デザインテーマ。<html data-theme="..."> で切り替える（index.html）。
+ *   sky      : 公式サイト風。白〜淡い空色に青緑のアクセント、丸みのある形
+ *   earlgrey : クリーム〜ベージュにキャラメルゴールド、角のないフラットな形
+ * 部品側は bg-page / text-ink / bg-accent / rounded-panel のような
+ * 役割ベースの名前だけを使い、具体的な値はここで決める。
+ */
+
+@theme {
+  --font-sans: "Noto Sans JP", "Hiragino Sans", "Meiryo", sans-serif;
+  /* 英字の見出し・番号 */
+  --font-display: "Lato", "Noto Sans JP", sans-serif;
+
+  /* ページ地 / パネル / 薄い面 / 線 / アクセント / 文字 */
+  --color-page: #f4faff;
+  --color-surface: #ffffff;
+  --color-subtle: #ddf0f8;
+  --color-line: #b9dcec;
+  --color-accent: #2e7090;
+  --color-accent-deep: #235a75;
+  --color-ink: #334e60;
+  /* ヘッダー・フッターの背景と文字 */
+  --color-hero-from: #ddf0f8;
+  --color-hero-to: #f4faff;
+  --color-footer-from: #334e60;
+  --color-footer-to: #17191c;
+  --color-footer-ink: #ffffff;
+
+  /* 角丸: パネル / 入力欄 / ボタン・タブ / アイコン */
+  --radius-panel: 1.5rem;
+  --radius-field: 0.75rem;
+  --radius-control: 9999px;
+  --radius-icon: 0.75rem;
+
+  --panel-shadow: 0 10px 30px rgb(46 112 144 / 0.08);
+
+  /* 見出し英字の太さと字間 */
+  --display-weight: 300;
+  --display-tracking: 0.1em;
+}
+
+html[data-theme="earlgrey"] {
+  /* 本文: 游ゴシック Medium（Windows の游ゴシック Regular は細すぎるため Medium を優先） */
+  --font-sans: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
+    "Hiragino Sans", "ヒラギノ角ゴ ProN W3", "Meiryo", sans-serif;
+  --font-display: "EB Garamond", "Yu Mincho", "Hiragino Mincho ProN", serif;
+
+  --color-page: #fbf6f0;
+  --color-surface: #ffffff;
+  --color-subtle: #f3e6d7;
+  --color-line: #e0bf98;
+  --color-accent: #d3a468;
+  --color-accent-deep: #cca375;
+  --color-ink: #56411c;
+  --color-hero-from: #fbf6f0;
+  --color-hero-to: #f3e6d7;
+  --color-footer-from: #f3e6d7;
+  --color-footer-to: #f3e6d7;
+  --color-footer-ink: #56411c;
+
+  --radius-panel: 0;
+  --radius-field: 0;
+  --radius-control: 0;
+  --radius-icon: 0.125rem;
+
+  --panel-shadow: none;
+
+  --display-weight: 600;
+  --display-tracking: 0.09em;
+}
+
 body {
-  @apply min-h-screen antialiased;
+  @apply bg-page text-ink min-h-screen antialiased;
+  font-family: var(--font-sans);
+}
+
+/* 見出し英字（テーマごとに太さ・字間が変わる） */
+@utility display-heading {
+  font-family: var(--font-display);
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+}
+
+/* パネルの影（Tailwind の shadow-* は値が埋め込まれてテーマで切り替わらないため変数で指定） */
+@utility panel-shadow {
+  box-shadow: var(--panel-shadow);
 }
