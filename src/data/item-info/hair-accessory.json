@@ -1,0 +1,667 @@
+{
+  "hair-accessory/001_くつろぐ日光浴者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "くつろぐ日光浴者",
+    "sourceUrl": "https://9-bit.jp/skygold/7884/",
+    "season": "楽園の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/06/eventitem14.jpg"
+  },
+  "hair-accessory/002_光の語り部": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/17149/",
+    "season": "羽ばたく季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly05.jpg"
+  },
+  "hair-accessory/003_工夫好きの風鈴職人": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "工夫好きの風鈴職人",
+    "sourceUrl": "https://9-bit.jp/skygold/17142/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly06.jpg"
+  },
+  "hair-accessory/004_快活な誘導手": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "快活な誘導手",
+    "sourceUrl": "https://9-bit.jp/skygold/17163/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly07.jpg"
+  },
+  "hair-accessory/005_羽ばたく案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極／交換",
+    "source": "羽ばたく案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56791/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly08.jpg"
+  },
+  "hair-accessory/006_おっちょこちょいな水夫長": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "おっちょこちょいな水夫長",
+    "sourceUrl": "https://9-bit.jp/skygold/19249/",
+    "season": "深淵の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby17.jpg"
+  },
+  "hair-accessory/007_万古の闇": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "万古の闇",
+    "sourceUrl": "https://9-bit.jp/skygold/23506/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/06/item_sos15.jpg"
+  },
+  "hair-accessory/008_万古の光": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "万古の光",
+    "sourceUrl": "https://9-bit.jp/skygold/23506/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/06/item_sos14.jpg"
+  },
+  "hair-accessory/009_頼もしい自然保護官": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "頼もしい自然保護官",
+    "sourceUrl": "https://9-bit.jp/skygold/33199/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment56.jpg"
+  },
+  "hair-accessory/010_夜鳥の語り部": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "夜鳥の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/33197/",
+    "season": "瞬きの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment57.jpg"
+  },
+  "hair-accessory/011_瞬きの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極／交換",
+    "source": "瞬きの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/33193/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment58.jpg"
+  },
+  "hair-accessory/012_見捨てられた隠れ家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "見捨てられた隠れ家",
+    "sourceUrl": "https://9-bit.jp/skygold/37286/",
+    "season": "復古の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/revival13.jpg"
+  },
+  "hair-accessory/013_忘れ去られた楽園のなごり": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "忘れ去られた楽園のなごり",
+    "sourceUrl": "https://9-bit.jp/skygold/37288/",
+    "season": "復古の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/revival14.jpg"
+  },
+  "hair-accessory/014_壁画の精": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "壁画の精",
+    "sourceUrl": "https://9-bit.jp/skygold/40056/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd100.jpg"
+  },
+  "hair-accessory/015_国王": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "国王",
+    "sourceUrl": "https://9-bit.jp/skygold/40050/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd11.jpg"
+  },
+  "hair-accessory/016_巣づくりの小部屋": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりの小部屋",
+    "sourceUrl": "https://9-bit.jp/skygold/41938/",
+    "season": "巣づくりの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i02.jpg"
+  },
+  "hair-accessory/017_ムーミントロール・アクセサリーセット": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "ムーミン谷で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/47172/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins14.jpg"
+  },
+  "hair-accessory/018_スナフキンのとんがり帽": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "ムーミン谷で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/47172/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins15.jpg"
+  },
+  "hair-accessory/019_自己の確立": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自己の確立",
+    "sourceUrl": "https://9-bit.jp/skygold/47160/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins56.jpg"
+  },
+  "hair-accessory/020_包容力の源": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "包容力の源",
+    "sourceUrl": "https://9-bit.jp/skygold/47164/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins57.jpg"
+  },
+  "hair-accessory/021_光に染まる礼を尽くす祈祷師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光に染まる礼を尽くす祈祷師",
+    "sourceUrl": "https://9-bit.jp/skygold/50928/",
+    "season": "光に染まる季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_12.jpg"
+  },
+  "hair-accessory/022_衣装をまとう紙ふぶき好きのいとこ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "衣装をまとう紙ふぶき好きのいとこ",
+    "sourceUrl": "https://9-bit.jp/skygold/54441/",
+    "season": "青い鳥の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird202.jpg"
+  },
+  "hair-accessory/023_懐かしむ煌めきを放つ親": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "懐かしむ煌めきを放つ親",
+    "sourceUrl": "https://9-bit.jp/skygold/54445/",
+    "season": "青い鳥の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird99.jpg"
+  },
+  "hair-accessory/024_ふたつの灯火の季節前篇のヘアアクセサリー": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers128.jpg"
+  },
+  "hair-accessory/025_ふたつの灯火の季節前篇のヘアアクセサリー（究極）": {
+    "availability": "復刻なし",
+    "method": "究極／交換",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers118.jpg"
+  },
+  "hair-accessory/026_小さなマナティ": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers129.jpg"
+  },
+  "hair-accessory/027_渡りの蝶々使い": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "渡りの蝶々使い",
+    "sourceUrl": "https://9-bit.jp/skygold/60879/",
+    "season": "渡りの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/26010785.jpg"
+  },
+  "hair-accessory/028_渡りの海月の語り部": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "渡りの海月の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/60779/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration28.jpg"
+  },
+  "hair-accessory/029_光修繕する光採取者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する光採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/63059/",
+    "season": "光の修繕者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_106.jpg"
+  },
+  "hair-accessory/030_カーニバルの旅役者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの旅役者",
+    "sourceUrl": "https://9-bit.jp/skygold/65405/",
+    "season": "カーニバルの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival60.jpg"
+  },
+  "hair-accessory/031_カーニバルの謎解き座長": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの謎解き座長",
+    "sourceUrl": "https://9-bit.jp/skygold/65356/",
+    "season": "カーニバルの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival61.jpg"
+  },
+  "hair-accessory/032_来福の果実": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/11613/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/hair218.jpg"
+  },
+  "hair-accessory/033_来福の小魚アクセサリー": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/19670/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/hac07.jpg"
+  },
+  "hair-accessory/034_愛しみの花冠": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "愛しみの日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/19677/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/hac09.jpg"
+  },
+  "hair-accessory/035_愛しみハートベレー": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "愛しみの日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/40117/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/02/love2406.jpg"
+  },
+  "hair-accessory/036_自然のサンゴクラウン": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自然の日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/21497/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/nd21.jpg"
+  },
+  "hair-accessory/037_虹かける髪飾り": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "虹かける日々",
+    "sourceUrl": "https://9-bit.jp/skygold/14033/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/05/niji22.jpg"
+  },
+  "hair-accessory/038_虹色のお花のアクセサリー": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "虹かける日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/23214/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/item_rd01.jpg"
+  },
+  "hair-accessory/039_彩なすベレー帽": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262708.jpg"
+  },
+  "hair-accessory/040_1周年記念ハット": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "1周年イベント",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/eventitem50.jpg"
+  },
+  "hair-accessory/041_２周年を祝う帽子": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "２周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/15691/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/05/2years06.jpg"
+  },
+  "hair-accessory/042_3周年記念ハット": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "3周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/23612/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/item_3y05.jpg"
+  },
+  "hair-accessory/043_4周年記念ハット": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "4周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/33544/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/4th_18.jpg"
+  },
+  "hair-accessory/044_5周年記念ヘアバンド": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "SkyFest 2024",
+    "sourceUrl": "https://9-bit.jp/skygold/44357/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/5th_21.jpg"
+  },
+  "hair-accessory/045_6周年記念ハット": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/25062506.jpg"
+  },
+  "hair-accessory/046_7周年イベントのヘアアクセサリー": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "7周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/67018/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/06/7th_06.jpg"
+  },
+  "hair-accessory/047_SCA26キャップ": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "7周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/67018/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/26070237.jpg"
+  },
+  "hair-accessory/048_不思議のエプロンドレス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "不思議の国のアリスカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/49118/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/12/alicecafe38.jpg"
+  },
+  "hair-accessory/049_不思議の重なり帽子": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "不思議の国のアリスカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/49118/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/12/alicecafe17.jpg"
+  },
+  "hair-accessory/050_冬編むふわふわ小物パック": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111349.jpg"
+  },
+  "hair-accessory/051_オレオカチューシャ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "SkyFest 2024",
+    "sourceUrl": "https://9-bit.jp/skygold/44357/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/5th_23.jpg"
+  },
+  "hair-accessory/052_大競技会の金冠": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "凱旋の大競技会",
+    "sourceUrl": "https://9-bit.jp/skygold/44301/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/totr14.jpg"
+  },
+  "hair-accessory/053_月灯り花の髪飾り": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "月灯りの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/45702/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/moonlight06.jpg"
+  },
+  "hair-accessory/054_お洒落シルクハット": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "お洒落な日々",
+    "sourceUrl": "https://9-bit.jp/skygold/35357/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/09/2300921_23.jpg"
+  },
+  "hair-accessory/055_お洒落ダークファシネーターハット": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "お洒落な日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/45709/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/style24.jpg"
+  },
+  "hair-accessory/056_いたずらかぼちゃ蟹アクセサリー": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "いたずらな日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/37376/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/itzr23_19.jpg"
+  },
+  "hair-accessory/057_聖なる雪花アクセサリー": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "聖なる星の日々(2021~)",
+    "sourceUrl": "https://9-bit.jp/skygold/18657/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/11/hair239.jpg"
+  },
+  "hair-accessory/058_冬編む松ぼっくりヘアピン": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/39287/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/12/2312_14_09.jpg"
+  },
+  "hair-accessory/059_ゆきんこアクセサリー": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111348.jpg"
+  },
+  "hair-accessory/060_貝殻ヘアピン": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "常夏の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/16220/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum01.jpg"
+  },
+  "hair-accessory/061_常夏ハット": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "常夏の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/16220/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum02.jpg"
+  },
+  "hair-accessory/062_夏灯りのお月見兎": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "夏灯りの日々(2021~)",
+    "sourceUrl": "https://9-bit.jp/skygold/16237/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/sum15.jpg"
+  },
+  "hair-accessory/063_陽光スポーツサングラス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "陽光の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/67799/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/25072805.jpg"
+  },
+  "hair-accessory/064_音楽ヘアピン": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "音楽堂オープンイベント",
+    "sourceUrl": "https://9-bit.jp/skygold/22822/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/musicshop24.jpg"
+  },
+  "hair-accessory/065_シナモンのお耳をイメージしたヘアアクセサリー": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "シナモロールもくもくカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/42623/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i102.jpg"
+  },
+  "hair-accessory/066_ティーカップカチューシャ": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シナモロールもくもくカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/42623/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i104.jpg"
+  },
+  "hair-accessory/067_かわいいお友だちシナモロール": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "シナモロールもくもくカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/42623/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i103.jpg"
+  },
+  "hair-accessory/068_愛しみの紫水晶アクセサリー": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "愛しみの日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51034/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/02/250205_10.jpg"
+  },
+  "hair-accessory/069_グリーンのたれ耳": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010712.jpg"
+  },
+  "hair-accessory/070_ブルーの制帽": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010713.jpg"
+  },
+  "hair-accessory/071_イエローの絵筆": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010714.jpg"
+  },
+  "hair-accessory/072_パーソナリティチェックのヘアアクセサリー1": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010715.jpg"
+  },
+  "hair-accessory/073_パーソナリティチェックのヘアアクセサリー2": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010716.jpg"
+  },
+  "hair-accessory/074_宝探しの日々2026のヘアアクセサリ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "宝探しの日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65957/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/26040404.jpg"
+  },
+  "hair-accessory/075_オーシャンベール": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自然の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64847/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/26040206.jpg"
+  },
+  "hair-accessory/076_花の髪飾り": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "癒しの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/7214/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/05/25032795.jpg"
+  },
+  "hair-accessory/077_キズナアイコラボ": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "キズナアイコラボ",
+    "sourceUrl": "https://9-bit.jp/skygold/20383/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/hac11.jpg"
+  },
+  "hair-accessory/078_Flowery＆flOwパック": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "ゲーム内ショップで販売",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/26041860.jpg"
+  },
+  "hair-accessory/079_モス感謝パック": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "花鳥郷イベントショップで販",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/11/fireworkfes11.jpg"
+  },
+  "hair-accessory/080_陽光ボンネットセット": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25082627.jpg"
+  }
+}

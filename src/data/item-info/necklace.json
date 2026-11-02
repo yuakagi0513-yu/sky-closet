@@ -1,0 +1,481 @@
+{
+  "necklace/001_感謝の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/2629/",
+    "season": "感謝の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant02.jpg"
+  },
+  "necklace/002_光の探求者の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/3731/",
+    "season": "光の探求者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant03.jpg"
+  },
+  "necklace/003_想いを編む季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/5193/",
+    "season": "想いを編む季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant04.jpg"
+  },
+  "necklace/004_リズムが弾ける季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/5069/",
+    "season": "リズムが弾ける季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant01.jpg"
+  },
+  "necklace/005_魔法の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/8017/",
+    "season": "魔法の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant05.jpg"
+  },
+  "necklace/006_楽園の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/9564/",
+    "season": "楽園の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant14.jpg"
+  },
+  "necklace/007_預言者の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/9920/",
+    "season": "預言者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant15.jpg"
+  },
+  "necklace/008_夢かなう季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/10472/",
+    "season": "夢かなう季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant19.jpg"
+  },
+  "necklace/009_大樹に集う季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/12214/",
+    "season": "大樹に集う季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant23.jpg"
+  },
+  "necklace/010_星の王子さまの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/10237/",
+    "season": "星の王子さまの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_05.jpg"
+  },
+  "necklace/011_羽ばたく季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/16706/",
+    "season": "羽ばたく季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pd03.jpg"
+  },
+  "necklace/012_深淵の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/19320/",
+    "season": "深淵の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/01/ssb01.jpg"
+  },
+  "necklace/013_表現者たちの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/21095/",
+    "season": "表現者たちの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/icn_sop05.jpg"
+  },
+  "necklace/014_砕ケル闇ノ季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/23544/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/07/item_sos12.jpg"
+  },
+  "necklace/015_AURORAの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/24861/",
+    "season": "AURORAの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa26.jpg"
+  },
+  "necklace/016_追慕の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/28864/",
+    "season": "追慕の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i39.jpg"
+  },
+  "necklace/017_ならいの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/30717/",
+    "season": "ならいの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage54.jpg"
+  },
+  "necklace/018_瞬きの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/33181/",
+    "season": "瞬きの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment48.jpg"
+  },
+  "necklace/019_復古の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/37258/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/revival88-1.jpg"
+  },
+  "necklace/020_九色の鹿の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/40015/",
+    "season": "九色の鹿の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd16.jpg"
+  },
+  "necklace/021_巣づくりの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/42001/",
+    "season": "巣づくりの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i03.jpg"
+  },
+  "necklace/022_重なる音色の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/44289/",
+    "season": "重なる音色の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i22.jpg"
+  },
+  "necklace/023_ムーミンの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/44794/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins60.jpg"
+  },
+  "necklace/024_光に染まる季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/50852/",
+    "season": "光に染まる季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_20.jpg"
+  },
+  "necklace/025_青い鳥の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/54414/",
+    "season": "青い鳥の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird14.jpg"
+  },
+  "necklace/026_ふたつの灯火の季節前篇のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/embers206.jpg"
+  },
+  "necklace/027_渡りの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/60646/",
+    "season": "渡りの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration32.jpg"
+  },
+  "necklace/028_光の修繕者の季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/62841/",
+    "season": "光の修繕者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_13.jpg"
+  },
+  "necklace/029_カーニバルの季節のシーズンパス購入特典": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "シーズンパス購入特典",
+    "sourceUrl": "https://9-bit.jp/skygold/64853/",
+    "season": "カーニバルの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival75.jpg"
+  },
+  "necklace/030_ハイキングする気難し屋": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ハイキングする気難し屋",
+    "sourceUrl": "https://9-bit.jp/skygold/7876/",
+    "season": "楽園の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant20.jpg"
+  },
+  "necklace/031_星の収集家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "星の収集家",
+    "sourceUrl": "https://9-bit.jp/skygold/14823/",
+    "season": "星の王子さまの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_04.jpg"
+  },
+  "necklace/032_腕利きの工匠": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "腕利きの工匠",
+    "sourceUrl": "https://9-bit.jp/skygold/17170/",
+    "season": "羽ばたく季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly18.jpg"
+  },
+  "necklace/033_万古の闇": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "万古の闇",
+    "sourceUrl": "https://9-bit.jp/skygold/23506/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/06/item_sos08.jpg"
+  },
+  "necklace/034_懇願する幼子": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "懇願する幼子",
+    "sourceUrl": "https://9-bit.jp/skygold/28721/",
+    "season": "追慕の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i20.jpg"
+  },
+  "necklace/035_追慕の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "追慕の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/28729/",
+    "season": "追慕の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i06.jpg"
+  },
+  "necklace/036_風変わりなひとり好き": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "風変わりなひとり好き",
+    "sourceUrl": "https://9-bit.jp/skygold/30737/",
+    "season": "ならいの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage55.jpg"
+  },
+  "necklace/037_自己の確立": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自己の確立",
+    "sourceUrl": "https://9-bit.jp/skygold/47160/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins46-1.jpg"
+  },
+  "necklace/038_肩乗りニョロニョロ": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/44794/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins13.jpg"
+  },
+  "necklace/039_慈愛の安らぎ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "慈愛の安らぎ",
+    "sourceUrl": "https://9-bit.jp/skygold/47158/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins47.jpg"
+  },
+  "necklace/040_スナフキンの服セット": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/44794/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins12.jpg"
+  },
+  "necklace/041_包容力の源": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "包容力の源",
+    "sourceUrl": "https://9-bit.jp/skygold/47164/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins49.jpg"
+  },
+  "necklace/042_カーニバルの曲芸師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの曲芸師",
+    "sourceUrl": "https://9-bit.jp/skygold/64853/",
+    "season": "カーニバルの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival74.jpg"
+  },
+  "necklace/043_愛しみの装いクラバット": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "愛しみの日々2023",
+    "sourceUrl": "https://9-bit.jp/skygold/29096/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/02/necklace06.jpg"
+  },
+  "necklace/044_オーシャンネックレス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "自然の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/12997/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/neck0428_1.jpg"
+  },
+  "necklace/045_自然のウミガメパック": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "自然の日々2022",
+    "sourceUrl": "https://9-bit.jp/skygold/21497/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/nd20.jpg"
+  },
+  "necklace/046_オーシャン・ブルースカーフ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自然の日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/43264/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/05/nature24_13.jpg"
+  },
+  "necklace/047_肩乗りくらげ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "陽光の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/25484/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/08/yoko15.jpg"
+  },
+  "necklace/048_お洒落スタイリッシュトリオ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "お洒落な日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/45709/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/style03.jpg"
+  },
+  "necklace/049_聖なる木の葉タイ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/10321/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/05/pendant21.jpg"
+  },
+  "necklace/050_冬編むマフラー": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々 2021",
+    "sourceUrl": "https://9-bit.jp/skygold/18657/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/11/nkls02.jpg"
+  },
+  "necklace/051_シナモロール蝶ネクタイ": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "シナモロールもくもくカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/41485/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i101.jpg"
+  },
+  "necklace/052_宝探しの日々2026のネックレス": {
+    "availability": "限定",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/65957/",
+    "season": "宝探しの日々2026",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/26040405.jpg"
+  },
+  "necklace/053_ムーミントロール・アクセサリーセット": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/44794/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins16.jpg"
+  },
+  "necklace/054_元気いっぱいマナティパック": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers131.jpg"
+  },
+  "necklace/055_暗黒竜の痕跡": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers130.jpg"
+  }
+}

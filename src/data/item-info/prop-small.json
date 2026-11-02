@@ -1,0 +1,853 @@
+{
+  "prop/001_ブロック": {
+    "source": "祖たる賢者",
+    "sourceUrl": "https://9-bit.jp/skygold/5189/",
+    "season": "想いを編む季節",
+    "effect": "ブロックを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/01/prop30.jpg"
+  },
+  "prop/002_水の壁画": {
+    "source": "水の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9463/",
+    "season": "預言者の季節",
+    "effect": "水を表す壁画を貼れる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/prop71.png"
+  },
+  "prop/003_地の壁画": {
+    "source": "地の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9500/",
+    "season": "預言者の季節",
+    "effect": "地を表す壁画を貼れる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/prop54.jpg"
+  },
+  "prop/004_風の壁画": {
+    "source": "風の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9498/",
+    "season": "預言者の季節",
+    "effect": "風を表す壁画を貼れる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/ts113.jpg"
+  },
+  "prop/005_火の壁画": {
+    "source": "火の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9494/",
+    "season": "預言者の季節",
+    "effect": "火を表す壁画を貼れる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/230080_04.jpg"
+  },
+  "prop/006_壺（大樹に集う季節のクエスト）": {
+    "source": "大樹に集う季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/12860/",
+    "effect": "壺を設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as25.jpg"
+  },
+  "prop/007_クッション": {
+    "source": "大樹に集う季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/12860/",
+    "effect": "クッションを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as26.jpg"
+  },
+  "prop/008_バラ": {
+    "source": "究極の贈り物",
+    "sourceUrl": "https://9-bit.jp/skygold/10237/",
+    "season": "星の王子さまの季節",
+    "effect": "バラの形のオルゴール（曲付き）を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_02.jpg"
+  },
+  "prop/009_キツネのリュック": {
+    "source": "ゲーム内ショップ（星の王子さまの季節限定）",
+    "sourceUrl": "https://9-bit.jp/skygold/10237/",
+    "effect": "きつねのぬいぐるみを設置／ハグすることができる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_03.jpg"
+  },
+  "prop/010_追慕の季節のクエストの小物": {
+    "source": "追慕の季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/28735/",
+    "effect": "鈴の飾りを設置できる（鈴は風のある場所だと音が鳴る）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance121.jpg"
+  },
+  "prop/011_蟹のぬいぐるみ": {
+    "source": "追慕の季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/28735/",
+    "effect": "闇の蟹のぬいぐるみを設置／ハグすることができる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance124.jpg"
+  },
+  "prop/012_マンタのぬいぐるみ": {
+    "source": "追慕の季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/28735/",
+    "effect": "マンタのぬいぐるみを設置／ハグすることができる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance125.jpg"
+  },
+  "prop/013_蹴鞠": {
+    "source": "ならいの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30741/",
+    "season": "ならいの季節",
+    "effect": "他のプレイヤーと蹴鞠遊びができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/2306012_06.jpg"
+  },
+  "prop/014_上機嫌な地質学者": {
+    "source": "上機嫌な地質学者",
+    "sourceUrl": "https://9-bit.jp/skygold/33201/",
+    "season": "瞬きの季節",
+    "effect": "鉱物の入った箱を設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment38.jpg"
+  },
+  "prop/015_壺（薬草採集人）": {
+    "source": "薬草採集人",
+    "sourceUrl": "https://9-bit.jp/skygold/40048/",
+    "season": "九色の鹿の季節",
+    "effect": "壺を設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd05.jpg"
+  },
+  "prop/016_ぬいぐるみ": {
+    "source": "ムーミンの本",
+    "sourceUrl": "https://9-bit.jp/skygold/47166/",
+    "season": "ムーミンの季節",
+    "effect": "ムーミンのぬいぐるみを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins54.jpg"
+  },
+  "prop/017_寄り添うお友だち": {
+    "source": "寄り添うお友だち",
+    "sourceUrl": "https://9-bit.jp/skygold/58306/",
+    "season": "ふたつの灯火の季節前篇",
+    "effect": "蝶々の玩具を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/250626034.jpg"
+  },
+  "prop/018_マナティぬいぐるみ": {
+    "source": "ふたつの灯火の季節前篇",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "effect": "マナティのぬいぐるみを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers15-1.jpg"
+  },
+  "prop/019_心優しき玩具職人": {
+    "source": "心優しき玩具職人",
+    "sourceUrl": "https://9-bit.jp/skygold/58296/",
+    "season": "ふたつの灯火の季節前篇",
+    "effect": "蟹のおもちゃを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers05.jpg"
+  },
+  "prop/020_大精霊の記憶の燈": {
+    "source": "大精霊の記憶の燈",
+    "sourceUrl": "https://9-bit.jp/skygold/58308/",
+    "season": "ふたつの灯火の季節前篇",
+    "effect": "絵を設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/250626032.jpg"
+  },
+  "prop/021_記憶の映写機": {
+    "source": "ふたつの灯火の季節前篇",
+    "sourceUrl": "https://9-bit.jp/skygold/58357/",
+    "effect": "映画『Sky ふたつの灯火 −前篇−』およびクリエイターコメンタリーを鑑賞できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/250626069.jpg"
+  },
+  "prop/022_カーニバルの案内人": {
+    "source": "カーニバルの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/65455/",
+    "season": "カーニバルの季節",
+    "effect": "ぬいぐるみを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival176.jpg"
+  },
+  "prop/023_陽光さざ波映写機": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "エフェクト効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25082606.jpg"
+  },
+  "prop/024_砂のお城のピース（1）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "砂のお城を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25072823.jpg"
+  },
+  "prop/025_砂のお城のピース（2）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "砂のお城を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25072824.jpg"
+  },
+  "prop/026_砂のお城のピース（3）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "砂のお城を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25072825.jpg"
+  },
+  "prop/027_砂のお城のピース（4）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "砂のお城を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25072826.jpg"
+  },
+  "prop/028_砂のお城のピース（5）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "砂のお城を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25072827.jpg"
+  },
+  "prop/029_砂のお城のピース（6）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "砂山を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/26081406.jpg"
+  },
+  "prop/030_砂のお城のピース（7）": {
+    "source": "陽光の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "effect": "旗を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/26081407.jpg"
+  },
+  "prop/031_月灯り壁掛け": {
+    "source": "月灯りの日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/60202/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/09/25092342.jpg"
+  },
+  "prop/032_愛しみのゴンドラ": {
+    "source": "愛しみの日々2022",
+    "sourceUrl": "https://9-bit.jp/skygold/19677/",
+    "effect": "水面にボートを置ける。ボートに座ることでチャットもできる。ボートは移動する",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/prop61.jpg"
+  },
+  "prop/033_風車": {
+    "source": "煌めきを放つ親",
+    "sourceUrl": "https://9-bit.jp/skygold/5183/",
+    "season": "想いを編む季節",
+    "effect": "風車を設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/prop50.jpg"
+  },
+  "prop/034_ブルーカーペット": {
+    "source": "6周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "effect": "カーペットを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/6th_31.jpg"
+  },
+  "prop/035_すずめぬいぐるみ": {
+    "source": "7周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/67018/",
+    "effect": "星の子のぬいぐるみを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/06/7th_01.jpg"
+  },
+  "prop/036_いたずら暗黒竜ラグ": {
+    "source": "いたずらな日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/60658/",
+    "effect": "カーペットを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102529.jpg"
+  },
+  "prop/037_いたずらかぼちゃ蟹ランプ": {
+    "source": "いたずらな日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/60658/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102530.jpg"
+  },
+  "prop/038_いたずら蜘蛛の巣飾り": {
+    "source": "いたずらな日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/60658/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102531.jpg"
+  },
+  "prop/039_凱旋の大競技会2026の小物（1）": {
+    "source": "凱旋の大競技会2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63354/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26011721.jpg"
+  },
+  "prop/040_凱旋の大競技会2026の小物（2）": {
+    "source": "凱旋の大競技会2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63354/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26011720.jpg"
+  },
+  "prop/041_凱旋の大競技会2026の小物（3）": {
+    "source": "凱旋の大競技会2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63354/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26011722.jpg"
+  },
+  "prop/042_凱旋の大競技会2026の小物（4）": {
+    "source": "凱旋の大競技会2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63354/",
+    "effect": "装飾を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26011723.jpg"
+  },
+  "prop/043_ガーラント": {
+    "source": "２周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/15691/",
+    "effect": "ガーラントを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/05/2years05.jpg"
+  },
+  "prop/044_バルーンスタンド": {
+    "source": "３周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/23612/",
+    "effect": "バルーンを設置できる（副次効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/item_3y02.jpg"
+  },
+  "prop/045_紙吹雪ランチャー": {
+    "source": "３周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/23612/",
+    "effect": "火を灯すと紙ふぶきを発射するランチャーを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/item_3y04.jpg"
+  },
+  "prop/046_彩なすしゃぼん玉仕掛け": {
+    "source": "彩なす日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/44025/",
+    "effect": "シャボン玉発生装置を設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/color24_i10.jpg"
+  },
+  "prop/047_いたずらパンプキンの置物": {
+    "source": "いたずらな日々2021",
+    "sourceUrl": "https://9-bit.jp/skygold/16885/",
+    "effect": "かぼちゃの置物を設置する（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/hl04.jpg"
+  },
+  "prop/048_猫の使い魔": {
+    "source": "いたずらな日々2022",
+    "sourceUrl": "https://9-bit.jp/skygold/26925/",
+    "effect": "なでると威嚇する猫のぬいぐるみを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/itazura22_62.jpg"
+  },
+  "prop/049_冬編むクッション": {
+    "source": "聖なる星の日々2021",
+    "sourceUrl": "https://9-bit.jp/skygold/18657/",
+    "effect": "クッションを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/11/prop42.jpg"
+  },
+  "prop/050_聖なる冬のスノードーム": {
+    "source": "聖なる星の日々2021",
+    "sourceUrl": "https://9-bit.jp/skygold/18657/",
+    "effect": "スノードームを設置できる。スノードームの周囲には雪が降る（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/11/prop41.jpg"
+  },
+  "prop/051_おやつキット": {
+    "source": "陽光の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/25251/",
+    "effect": "焼きマシュマロがつくれるキットを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/08/yoko13.jpg"
+  },
+  "prop/052_Skyボール・トーナメントセット": {
+    "source": "聖なる星の日々2022",
+    "sourceUrl": "https://9-bit.jp/skygold/28084/",
+    "effect": "サッカーのようなスポーツを行うためのボールとゴールを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/prop75.jpg"
+  },
+  "prop/053_花笑む蝶の泉": {
+    "source": "花笑む日々2023",
+    "sourceUrl": "https://9-bit.jp/skygold/29990/",
+    "effect": "蝶が寄ってくる泉を設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/03/prop112.jpg"
+  },
+  "prop/054_自然の海鳴く巻き貝": {
+    "source": "自然の日々2023",
+    "sourceUrl": "https://9-bit.jp/skygold/30977/",
+    "effect": "機能をオンにすることで海の波の音が再生される",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage157.jpg"
+  },
+  "prop/055_アニバーサリーミュージック巻き貝": {
+    "source": "4周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/33544/",
+    "effect": "機能をオンにすることでダンスミュージックが再生される",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/4th_09.jpg"
+  },
+  "prop/056_音楽プレイヤー": {
+    "source": "巣づくりチャレンジ",
+    "sourceUrl": "https://9-bit.jp/skygold/42895/",
+    "effect": "機能をオンにすることでSkyのBGMが再生される",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408738.jpg"
+  },
+  "prop/057_アニバーサリーぬいぐるみ": {
+    "source": "4周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/33544/",
+    "effect": "犬のオレオのぬいぐるみを設置／ハグすることができる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/4th_07.jpg"
+  },
+  "prop/058_愛しみハートぬいぐるみ": {
+    "source": "愛しみの日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/40117/",
+    "effect": "クッションを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/02/love2404.jpg"
+  },
+  "prop/059_陽光サーフボード": {
+    "source": "陽光の日々2023",
+    "sourceUrl": "https://9-bit.jp/skygold/35300/",
+    "effect": "サーフボードで水上を移動できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/08/23008_2257.jpg"
+  },
+  "prop/060_陽光の日々2026の小物": {
+    "source": "陽光の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/67799/",
+    "effect": "サーフボードで水上を移動できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/25072807.jpg"
+  },
+  "prop/061_コンパニオンキューブ": {
+    "source": "花鳥郷のアイテムショップ（Steam版でのみ購入可）",
+    "effect": "コンパニオンキューブを設置／ハグすることができる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/cc01.jpg"
+  },
+  "prop/062_コースクリエイトセット": {
+    "source": "聖なる星の日々2023",
+    "sourceUrl": "https://9-bit.jp/skygold/39287/",
+    "effect": "レースコースを作って遊ぶことができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/12/2312_14_10.jpg"
+  },
+  "prop/063_石づくりの家具（1）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/24052774.jpg"
+  },
+  "prop/064_石づくりの家具（2）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/24052778.jpg"
+  },
+  "prop/065_石づくりの家具（3）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/05/24052766.jpg"
+  },
+  "prop/066_石づくりの家具（4）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/24052777.jpg"
+  },
+  "prop/067_石づくりの家具（5）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/24052775.jpg"
+  },
+  "prop/068_石づくりの家具（6）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/05/24052767.jpg"
+  },
+  "prop/069_石づくりの家具（7）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/24052785.jpg"
+  },
+  "prop/070_石づくりの家具（8）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/240452.jpg"
+  },
+  "prop/071_石づくりの家具（9）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/240527107.jpg"
+  },
+  "prop/072_石づくりの家具（10）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/240527108.jpg"
+  },
+  "prop/073_石づくりの家具（11）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "effect": "若干のエナジー回復効果あり",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/240498.jpg"
+  },
+  "prop/074_石づくりの家具（12）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408801.jpg"
+  },
+  "prop/075_駆けだしのピアニスト（1）": {
+    "source": "駆けだしのピアニスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44447/",
+    "season": "重なる音色の季節",
+    "effect": "ラグを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i13-1.jpg"
+  },
+  "prop/076_栄光のチェリスト（1）": {
+    "source": "栄光のチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44443/",
+    "season": "重なる音色の季節",
+    "effect": "ラグを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i26.jpg"
+  },
+  "prop/077_石づくりの家具（13）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408802.jpg"
+  },
+  "prop/078_石づくりの家具（14）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408803.jpg"
+  },
+  "prop/079_石づくりの家具（15）": {
+    "availability": "恒常",
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/240499.jpg"
+  },
+  "prop/080_石づくりの家具（16）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408804.jpg"
+  },
+  "prop/081_石づくりの家具（17）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408805.jpg"
+  },
+  "prop/082_石づくりの家具（18）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408807.jpg"
+  },
+  "prop/083_石づくりの家具（19）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408808.jpg"
+  },
+  "prop/084_石づくりの家具（20）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/24052779.jpg"
+  },
+  "prop/085_石づくりの家具（21）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408809.jpg"
+  },
+  "prop/086_石づくりの家具（22）": {
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408810.jpg"
+  },
+  "prop/087_石のトルソー": {
+    "source": "巣づくりチャレンジ",
+    "sourceUrl": "https://9-bit.jp/skygold/42895/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408811.jpg"
+  },
+  "prop/088_マスクのデコレーション": {
+    "availability": "恒常",
+    "source": "巣づくりの工房（石づくりの家具）",
+    "sourceUrl": "https://9-bit.jp/skygold/42469/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408812.jpg"
+  },
+  "prop/089_棚": {
+    "source": "巣づくりの小部屋",
+    "sourceUrl": "https://9-bit.jp/skygold/41938/",
+    "season": "巣づくりの季節",
+    "effect": "棚を設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i11.jpg"
+  },
+  "prop/090_絵画（巣づくりのロフト）": {
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "絵画を設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i10.jpg"
+  },
+  "prop/091_絵画（巣づくりのサンルーム）": {
+    "source": "巣づくりのサンルーム",
+    "sourceUrl": "https://9-bit.jp/skygold/41925/",
+    "season": "巣づくりの季節",
+    "effect": "絵画を設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i09.jpg"
+  },
+  "prop/092_ラック": {
+    "source": "巣づくりの小部屋",
+    "sourceUrl": "https://9-bit.jp/skygold/41938/",
+    "season": "巣づくりの季節",
+    "effect": "ラックを壁に設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i08.jpg"
+  },
+  "prop/093_ライト": {
+    "source": "巣づくりの吹き抜け",
+    "sourceUrl": "https://9-bit.jp/skygold/41936/",
+    "season": "巣づくりの季節",
+    "effect": "ライトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i07.jpg"
+  },
+  "prop/094_音色の案内人（1）": {
+    "source": "音色の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/44547/",
+    "season": "重なる音色の季節",
+    "effect": "タペストリーを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i17.jpg"
+  },
+  "prop/095_栄光のピアニスト": {
+    "source": "栄光のピアニスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44515/",
+    "season": "重なる音色の季節",
+    "effect": "タペストリーを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i01.jpg"
+  },
+  "prop/096_栄光のチェリスト（2）": {
+    "source": "栄光のチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44443/",
+    "season": "重なる音色の季節",
+    "effect": "タペストリーを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i04.jpg"
+  },
+  "prop/097_駆けだしのチェリスト": {
+    "source": "駆けだしのチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44449/",
+    "season": "重なる音色の季節",
+    "effect": "タペストリーを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i08.jpg"
+  },
+  "prop/098_駆けだしのピアニスト（2）": {
+    "source": "駆けだしのピアニスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44447/",
+    "season": "重なる音色の季節",
+    "effect": "タペストリーを設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i10.jpg"
+  },
+  "prop/099_音楽家たちの遺産": {
+    "source": "音楽家たちの遺産",
+    "sourceUrl": "https://9-bit.jp/skygold/44451/",
+    "season": "重なる音色の季節",
+    "effect": "演奏も行えるグランドピアノを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i15.jpg"
+  },
+  "prop/100_音色の案内人（2）": {
+    "source": "音色の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/44547/",
+    "season": "重なる音色の季節",
+    "effect": "演奏も行えるグランドピアノを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i19.jpg"
+  },
+  "prop/101_ムーミンの本": {
+    "source": "ムーミンの本",
+    "sourceUrl": "https://9-bit.jp/skygold/47166/",
+    "season": "ムーミンの季節",
+    "effect": "絵画を壁に設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins73-1.jpg"
+  },
+  "prop/102_包容力の源": {
+    "source": "包容力の源",
+    "sourceUrl": "https://9-bit.jp/skygold/47164/",
+    "season": "ムーミンの季節",
+    "effect": "絵画を壁に設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins61.jpg"
+  },
+  "prop/103_慈愛の安らぎ": {
+    "source": "慈愛の安らぎ",
+    "sourceUrl": "https://9-bit.jp/skygold/47158/",
+    "season": "ムーミンの季節",
+    "effect": "絵画を壁に設置できる（副次的効果なし）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins62.jpg"
+  },
+  "prop/104_巣づくりの案内人": {
+    "source": "巣づくりの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/41943/",
+    "season": "巣づくりの季節",
+    "effect": "自分と同じ格好のフィギュアを置ける／設置したフィギュアと同じ服装に着替えられる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i06.jpg"
+  },
+  "prop/105_楽器スタンド": {
+    "source": "巣づくりチャレンジ",
+    "sourceUrl": "https://9-bit.jp/skygold/42895/",
+    "effect": "楽器スタンドを設置し所有の楽器からひとつを選んでディスプレイできる。ディスプレイした楽器は演奏できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/240472.jpg"
+  },
+  "prop/106_星灯りランタン": {
+    "source": "SkyFest 2024",
+    "sourceUrl": "https://9-bit.jp/skygold/44357/",
+    "effect": "照明効果のあるランタンを手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/5th_19.jpg"
+  },
+  "prop/107_ふわふわぬいぐるみシナモロール": {
+    "source": "シナモロールもくもくカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/41485/",
+    "effect": "シナモンのぬいぐるみを設置できる／ハグできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i106.jpg"
+  },
+  "prop/108_不思議のカフェの通り道": {
+    "source": "不思議の国のアリスカフェ ※ 再入手不可",
+    "sourceUrl": "https://9-bit.jp/skygold/49118/",
+    "effect": "不思議なカフェにテレポートできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/12/alicecafe21.jpg"
+  },
+  "prop/109_愛しみの紫水晶の置物": {
+    "source": "愛しみの日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51034/",
+    "effect": "置物を設置できる。置物は友情表現に反応する",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/02/250205_07.jpg"
+  },
+  "prop/110_花笑むバラの一輪挿し": {
+    "source": "花笑む日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/52797/",
+    "effect": "バラの一輪挿しを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/03/25031901.jpg"
+  },
+  "prop/111_花笑む日々2026の家具（1）": {
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "effect": "家具を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031003.jpg"
+  },
+  "prop/112_花笑む日々2026の家具（2）": {
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "effect": "家具を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031004.jpg"
+  },
+  "prop/113_花笑む日々2026の家具（3）": {
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "effect": "家具を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031005.jpg"
+  },
+  "prop/114_自然の日々2026の装飾": {
+    "source": "自然の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64847/",
+    "effect": "装飾物を設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/26040204.jpg"
+  },
+  "prop/115_カイト（1）": {
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "カイトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262728.jpg"
+  },
+  "prop/116_カイト（2）": {
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "カイトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262729.jpg"
+  },
+  "prop/117_カイト（3）": {
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "カイトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262703.jpg"
+  },
+  "prop/118_カイト（4）": {
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "カイトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262730.jpg"
+  },
+  "prop/119_カイト（5）": {
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "カイトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262731.jpg"
+  },
+  "prop/120_カイト（6）": {
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "カイトを設置できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262732.jpg"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "prop/001_ハープ": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "笑う光採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/8597/",
+    "cost": "ハート5",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki17.jpg"
+  },
+  "prop/002_巣立ちのハープ": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "奏の音楽堂で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/22822/",
+    "cost": "650円",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/05/musicshop25.jpg"
+  },
+  "prop/003_弦楽器": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "怯える難民",
+    "sourceUrl": "https://9-bit.jp/skygold/8827/",
+    "cost": "ハート10",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki11.jpg"
+  },
+  "prop/004_ピアノ（応援する観客）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "応援する観客",
+    "sourceUrl": "https://9-bit.jp/skygold/8778/",
+    "cost": "ハート10",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki16.jpg"
+  },
+  "prop/005_管楽器": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "警戒する斥候",
+    "sourceUrl": "https://9-bit.jp/skygold/8864/",
+    "cost": "ハート10",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki10.jpg"
+  },
+  "prop/006_飛び跳ねる舞踏家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "飛び跳ねる舞踏家",
+    "sourceUrl": "https://9-bit.jp/skygold/5115/",
+    "season": "感謝の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki13.jpg"
+  },
+  "prop/007_礼を尽くす祈祷師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "礼を尽くす祈祷師",
+    "sourceUrl": "https://9-bit.jp/skygold/5127/",
+    "season": "感謝の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki14.jpg"
+  },
+  "prop/008_ダブルタッチの光採取者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ダブルタッチの光採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/5141/",
+    "season": "光の探求者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem20.jpg"
+  },
+  "prop/009_くるりと舞う優勝者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "くるりと舞う優勝者",
+    "sourceUrl": "https://9-bit.jp/skygold/5151/",
+    "season": "光の探求者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem12.jpg"
+  },
+  "prop/010_ギター": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "訴えかける親",
+    "sourceUrl": "https://9-bit.jp/skygold/5186/",
+    "season": "想いを編む季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/event_item01.jpg"
+  },
+  "prop/011_律動のギター": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "奏の音楽堂で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/22822/",
+    "cost": "1,950円",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/musicshop22.jpg"
+  },
+  "prop/012_ウクレレ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ぽんぽんする若者",
+    "sourceUrl": "https://9-bit.jp/skygold/5181/",
+    "season": "想いを編む季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/event_item02.jpg"
+  },
+  "prop/013_木琴": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "思慮深き座長",
+    "sourceUrl": "https://9-bit.jp/skygold/6054/",
+    "season": "リズムが弾ける季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/11/gakki32.jpg"
+  },
+  "prop/014_ピアノ（敬意を表す楽師）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "敬意を表す楽師",
+    "sourceUrl": "https://9-bit.jp/skygold/6051/",
+    "season": "リズムが弾ける季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/11/gakki31.jpg"
+  },
+  "prop/015_ハンドパン": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "楽園の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56813/",
+    "season": "楽園の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/07/handpan-300x300.jpg"
+  },
+  "prop/016_凱旋のハンドパン": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "奏の音楽堂で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/22822/",
+    "cost": "2,600円",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/musicshop23.jpg"
+  },
+  "prop/017_預言の鼓": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "預言の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56847/",
+    "season": "預言者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/item_y14.jpg"
+  },
+  "prop/018_舞い踊る表現者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "舞い踊る表現者",
+    "sourceUrl": "https://9-bit.jp/skygold/10770/",
+    "season": "夢かなう季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item01.jpg"
+  },
+  "prop/019_大樹の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "大樹の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30272/",
+    "season": "大樹に集う季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as16.jpg"
+  },
+  "prop/020_工夫好きの風鈴職人": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "工夫好きの風鈴職人",
+    "sourceUrl": "https://9-bit.jp/skygold/17142/",
+    "season": "羽ばたく季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly02.jpg"
+  },
+  "prop/021_のんびり屋の音楽家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "のんびり屋の音楽家",
+    "sourceUrl": "https://9-bit.jp/skygold/21076/",
+    "season": "表現者たちの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop14.jpg"
+  },
+  "prop/022_TGCギター": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "秘密のエリアで販売",
+    "sourceUrl": "https://9-bit.jp/skygold/3339/",
+    "cost": "3900円",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/07/item_3y01.jpg"
+  },
+  "prop/023_万古の闇": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "万古の闇",
+    "sourceUrl": "https://9-bit.jp/skygold/23506/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/06/item_sos05.jpg"
+  },
+  "prop/024_AURORAの声": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "ゲーム内ショップで販売",
+    "sourceUrl": "https://9-bit.jp/skygold/24861/",
+    "season": "AURORAの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/voice_aurora.jpg"
+  },
+  "prop/025_活発すぎる頑張り屋": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "活発すぎる頑張り屋",
+    "sourceUrl": "https://9-bit.jp/skygold/30740/",
+    "season": "ならいの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage49.jpg"
+  },
+  "prop/026_音楽家たちの遺産": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "音楽家たちの遺産",
+    "sourceUrl": "https://9-bit.jp/skygold/44451/",
+    "season": "重なる音色の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i16.jpg"
+  },
+  "prop/027_思いやり深いチェリスト": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "思いやり深いチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/46976/",
+    "season": "重なる音色の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i62.jpg"
+  },
+  "prop/028_ハーモニカ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "冒険の心",
+    "sourceUrl": "https://9-bit.jp/skygold/47162/",
+    "season": "ムーミンの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins55.jpg"
+  },
+  "prop/029_光に染まる挑戦的な表現者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光に染まる挑戦的な表現者",
+    "sourceUrl": "https://9-bit.jp/skygold/50924/",
+    "season": "光に染まる季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_08.jpg"
+  },
+  "prop/030_Switch限定スターターパック": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "ゲーム内ショップで販売（Switch限定）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki36.jpg"
+  },
+  "prop/031_恥じらう探鉱者": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "恥じらう探鉱者",
+    "sourceUrl": "https://9-bit.jp/skygold/8692/",
+    "cost": "ハート5",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki15.jpg"
+  },
+  "prop/032_凱旋のバイオリン": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "奏の音楽堂で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/22822/",
+    "cost": "2,600円",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/06/msc08.jpg"
+  },
+  "prop/033_サクソフォン": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "音楽の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/32281/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/06/msc07.jpg"
+  },
+  "prop/034_来福太鼓": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/40113/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/12/fortune08.jpg"
+  },
+  "prop/035_花火（杖）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "敬礼する隊長",
+    "sourceUrl": "https://9-bit.jp/skygold/8872/",
+    "effect": "花火を打ち上げることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/magic13.jpg"
+  },
+  "prop/036_傘（くつろぐ開拓者）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "くつろぐ開拓者",
+    "sourceUrl": "https://9-bit.jp/skygold/5143/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem16.jpg"
+  },
+  "prop/037_花火大会の長杖": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "花鳥花火大会",
+    "sourceUrl": "https://9-bit.jp/skygold/38442/",
+    "effect": "花火を打ち上げられる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/11/fireworkfes37.jpg"
+  },
+  "prop/038_光海月の雨傘": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "光の探求者の季節",
+    "sourceUrl": "https://9-bit.jp/skygold/3731/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki24.jpg"
+  },
+  "prop/039_カメラ": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "瞬きの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/33193/",
+    "effect": "写真を撮れる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment37.jpg"
+  },
+  "prop/040_瞬きの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "瞬きの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/33193/",
+    "effect": "写真を撮れる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment36.jpg"
+  },
+  "prop/041_傘（ムーミンの本）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "ムーミンの本",
+    "sourceUrl": "https://9-bit.jp/skygold/44794/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins63.jpg"
+  },
+  "prop/042_厳格なマナティ飼い": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "厳格なマナティ飼い",
+    "sourceUrl": "https://9-bit.jp/skygold/58300/",
+    "effect": "光のマナティを呼び寄せられる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers201.jpg"
+  },
+  "prop/043_心優しき玩具職人": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "心優しき玩具職人",
+    "sourceUrl": "https://9-bit.jp/skygold/58296/",
+    "effect": "玩具を手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers04.jpg"
+  },
+  "prop/044_手負いの巡回兵（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "手負いの巡回兵",
+    "sourceUrl": "https://9-bit.jp/skygold/58304/",
+    "effect": "槍をかまえることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers34.jpg"
+  },
+  "prop/045_手負いの巡回兵（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "手負いの巡回兵",
+    "sourceUrl": "https://9-bit.jp/skygold/58304/",
+    "effect": "盾をかまえることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers32.jpg"
+  },
+  "prop/046_光修繕する光採取者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する光採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/63059/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_09.jpg"
+  },
+  "prop/047_来福の魔法傘": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29093/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/prop80.jpg"
+  },
+  "prop/048_愛しみの幸せステッキ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "愛しみの日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29096/",
+    "effect": "ハート型の花火を打ち上げられる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/02/prop91.jpg"
+  },
+  "prop/049_花笑む葉っぱ傘": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/41121/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/03/bloom23.jpg"
+  },
+  "prop/050_花笑むひまわり傘": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々(2026~)",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031001.jpg"
+  },
+  "prop/051_ジェノヴァのうちわ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "SkyFest 2024",
+    "sourceUrl": "https://9-bit.jp/skygold/44357/",
+    "effect": "うちわを手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/5th_18.jpg"
+  },
+  "prop/052_アニバーサリーカチンコ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "effect": "カチンコを手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/25062505.jpg"
+  },
+  "prop/053_大競技会トーチ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "凱旋の大競技会",
+    "sourceUrl": "https://9-bit.jp/skygold/44301/",
+    "effect": "エナジー回復／照明効果／キャンドルやギミックに点火できる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/totr12.jpg"
+  },
+  "prop/054_スノーボード": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "凱旋の大競技会2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63354/",
+    "effect": "雪上を滑走する際に摩擦が軽減される",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26011717.jpg"
+  },
+  "prop/055_ランタン": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "夏灯りの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/9032/",
+    "effect": "アバターの周辺を灯りで照らすことができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/06/mahou23.jpg"
+  },
+  "prop/056_常夏パラソル": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "常夏の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/16220/",
+    "effect": "雨から身を守ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum03.jpg"
+  },
+  "prop/057_いたずら枯れ木箒": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "いたずらな日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/47311/",
+    "effect": "ほうきにまたがったまま飛ぶことができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/mischief06.jpg"
+  },
+  "prop/058_宝探しシャベル": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "宝探しの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/52764/",
+    "effect": "シャベルを手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/02/dotr08.jpg"
+  },
+  "prop/059_来福ぬいぐるみ乗りもの": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63869/",
+    "effect": "ぬいぐるみに乗って飛ぶことができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/02/26010820.jpg"
+  },
+  "prop/060_アニバーサリーシアターセット": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "effect": "ポップコーンを手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/25062502.jpg"
+  },
+  "prop/061_7周年イベントの持ち物": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "7周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/67018/",
+    "effect": "ノートPCを操作する仕草",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/06/7th_04.jpg"
+  },
+  "prop/062_聖なるスノーボード": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2023",
+    "sourceUrl": "https://9-bit.jp/skygold/39287/",
+    "effect": "スノーボードで地上を滑ることができる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/12/2312_14_11.jpg"
+  },
+  "prop/063_来福扇子": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51027/",
+    "effect": "扇子を手に持てる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/evcurrency2501_31.jpg"
+  }
+}

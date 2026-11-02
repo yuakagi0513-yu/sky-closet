@@ -1,0 +1,979 @@
+{
+  "mask/001_初期マスク": {
+    "availability": "恒常",
+    "source": "ゲーム開始時に所持",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408761.jpg"
+  },
+  "mask/002_かくれんぼ提唱者": {
+    "availability": "恒常",
+    "method": "交換／特殊",
+    "source": "かくれんぼ提唱者",
+    "sourceUrl": "https://9-bit.jp/skygold/8701/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408763.jpg"
+  },
+  "mask/003_手を振る鐘の造り手": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "手を振る鐘の造り手",
+    "sourceUrl": "https://9-bit.jp/skygold/8573/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408764.jpg"
+  },
+  "mask/004_昏倒する戦士": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "昏倒する戦士",
+    "sourceUrl": "https://9-bit.jp/skygold/8836/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408765.jpg"
+  },
+  "mask/005_挑戦的な表現者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "挑戦的な表現者",
+    "sourceUrl": "https://9-bit.jp/skygold/5108/",
+    "season": "感謝の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408766.jpg"
+  },
+  "mask/006_飛び跳ねる舞踏家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "飛び跳ねる舞踏家",
+    "sourceUrl": "https://9-bit.jp/skygold/5115/",
+    "season": "感謝の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408767.jpg"
+  },
+  "mask/007_敬礼する守護者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "敬礼する守護者",
+    "sourceUrl": "https://9-bit.jp/skygold/5120/",
+    "season": "感謝の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408768.jpg"
+  },
+  "mask/008_礼を尽くす祈祷師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "礼を尽くす祈祷師",
+    "sourceUrl": "https://9-bit.jp/skygold/5127/",
+    "season": "感謝の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408769.jpg"
+  },
+  "mask/009_感謝の季節の究極の贈り物": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "究極の贈り物",
+    "sourceUrl": "https://9-bit.jp/skygold/3102/",
+    "season": "感謝の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408771.jpg"
+  },
+  "mask/010_おませな漂流者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "おませな漂流者",
+    "sourceUrl": "https://9-bit.jp/skygold/5093/",
+    "season": "感謝の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/2408770.jpg"
+  },
+  "mask/011_おんぶする光探究者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "おんぶする光探究者",
+    "sourceUrl": "https://9-bit.jp/skygold/5130/",
+    "season": "光の探求者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem02.jpg"
+  },
+  "mask/012_ダブルタッチの光採取者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ダブルタッチの光採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/5141/",
+    "season": "光の探求者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem19.jpg"
+  },
+  "mask/013_くつろぐ開拓者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "くつろぐ開拓者",
+    "sourceUrl": "https://9-bit.jp/skygold/5143/",
+    "season": "光の探求者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem14.jpg"
+  },
+  "mask/014_くるりと舞う優勝者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "くるりと舞う優勝者",
+    "sourceUrl": "https://9-bit.jp/skygold/5151/",
+    "season": "光の探求者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem10.jpg"
+  },
+  "mask/015_蟹の語り部": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "蟹の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/5154/",
+    "season": "光の探求者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem22.jpg"
+  },
+  "mask/016_静けさを望む光学者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "静けさを望む光学者",
+    "sourceUrl": "https://9-bit.jp/skygold/5156/",
+    "season": "光の探求者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/09/eventitem06.jpg"
+  },
+  "mask/017_音と舞う幼子": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "音と舞う幼子",
+    "sourceUrl": "https://9-bit.jp/skygold/5179/",
+    "season": "想いを編む季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask23.jpg"
+  },
+  "mask/018_祖たる賢者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "祖たる賢者",
+    "sourceUrl": "https://9-bit.jp/skygold/5189/",
+    "season": "想いを編む季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask24.jpg"
+  },
+  "mask/019_訴えかける親": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "訴えかける親",
+    "sourceUrl": "https://9-bit.jp/skygold/5186/",
+    "season": "想いを編む季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask25.jpg"
+  },
+  "mask/020_煌めきを放つ親": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "煌めきを放つ親",
+    "sourceUrl": "https://9-bit.jp/skygold/5183/",
+    "season": "想いを編む季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask26.jpg"
+  },
+  "mask/021_リズムが弾ける季節の究極の贈り物": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "究極の贈り物",
+    "sourceUrl": "https://9-bit.jp/skygold/3814/",
+    "season": "リズムが弾ける季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/hair144.jpg"
+  },
+  "mask/022_一座の進行役": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "一座の進行役",
+    "sourceUrl": "https://9-bit.jp/skygold/6037/",
+    "season": "リズムが弾ける季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/11/mask47.jpg"
+  },
+  "mask/023_うっとりするような旅役者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "うっとりするような旅役者",
+    "sourceUrl": "https://9-bit.jp/skygold/6047/",
+    "season": "リズムが弾ける季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/11/mask48.jpg"
+  },
+  "mask/024_思慮深き座長": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "思慮深き座長",
+    "sourceUrl": "https://9-bit.jp/skygold/6054/",
+    "season": "リズムが弾ける季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/11/mask49.jpg"
+  },
+  "mask/025_敬意を表す楽師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "敬意を表す楽師",
+    "sourceUrl": "https://9-bit.jp/skygold/6051/",
+    "season": "リズムが弾ける季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/11/mask50.jpg"
+  },
+  "mask/026_うなずく壁画師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "うなずく壁画師",
+    "sourceUrl": "https://9-bit.jp/skygold/5903/",
+    "season": "魔法の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/04/mask52.jpg"
+  },
+  "mask/027_けんかごっこ好きの植物採取者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "けんかごっこ好きの植物採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/5921/",
+    "season": "魔法の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/04/mask54.jpg"
+  },
+  "mask/028_無頓着な錬金術師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "無頓着な錬金術師",
+    "sourceUrl": "https://9-bit.jp/skygold/5008/",
+    "season": "魔法の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/04/mask55.jpg"
+  },
+  "mask/029_こけおどしの農家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "こけおどしの農家",
+    "sourceUrl": "https://9-bit.jp/skygold/5890/",
+    "season": "魔法の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/04/mask51.jpg"
+  },
+  "mask/030_ハイキングする気難し屋": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ハイキングする気難し屋",
+    "sourceUrl": "https://9-bit.jp/skygold/7876/",
+    "season": "楽園の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/06/eventitem08.jpg"
+  },
+  "mask/031_水の預言者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "水の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9463/",
+    "season": "預言者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/item_y04.jpg"
+  },
+  "mask/032_地の預言者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "地の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9500/",
+    "season": "預言者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/item_y11.jpg"
+  },
+  "mask/033_風の預言者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "風の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9498/",
+    "season": "預言者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/item_y12.jpg"
+  },
+  "mask/034_火の預言者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "火の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9494/",
+    "season": "預言者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/item_y16.jpg"
+  },
+  "mask/035_預言の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "預言の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56847/",
+    "season": "預言者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/item_y13.jpg"
+  },
+  "mask/036_そっと覗く郵便屋": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "そっと覗く郵便屋",
+    "sourceUrl": "https://9-bit.jp/skygold/10817/",
+    "season": "夢かなう季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item02.jpg"
+  },
+  "mask/037_舞い踊る表現者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "舞い踊る表現者",
+    "sourceUrl": "https://9-bit.jp/skygold/10770/",
+    "season": "夢かなう季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item03.jpg"
+  },
+  "mask/038_旋舞の師匠": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "旋舞の師匠",
+    "sourceUrl": "https://9-bit.jp/skygold/10825/",
+    "season": "夢かなう季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item04.jpg"
+  },
+  "mask/039_夢見の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "夢見の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56911/",
+    "season": "夢かなう季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item05.jpg"
+  },
+  "mask/040_大樹の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "大樹の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30272/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as01.jpg"
+  },
+  "mask/041_行進する冒険家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "行進する冒険家",
+    "sourceUrl": "https://9-bit.jp/skygold/12804/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as02.jpg"
+  },
+  "mask/042_含み笑いのスカウト": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "含み笑いのスカウト",
+    "sourceUrl": "https://9-bit.jp/skygold/12819/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as03.jpg"
+  },
+  "mask/043_夢見がちな森の民": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "夢見がちな森の民",
+    "sourceUrl": "https://9-bit.jp/skygold/12824/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as04.jpg"
+  },
+  "mask/044_したり顔の生徒": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "したり顔の生徒",
+    "sourceUrl": "https://9-bit.jp/skygold/12808/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as05.jpg"
+  },
+  "mask/045_とまどう植物学者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "とまどう植物学者",
+    "sourceUrl": "https://9-bit.jp/skygold/12792/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as06.jpg"
+  },
+  "mask/046_臆病な見習い士官": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "臆病な見習い士官",
+    "sourceUrl": "https://9-bit.jp/skygold/12815/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as07.jpg"
+  },
+  "mask/047_手招く支配者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "手招く支配者",
+    "sourceUrl": "https://9-bit.jp/skygold/14828/",
+    "season": "星の王子さまの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_18.jpg"
+  },
+  "mask/048_おっちょこちょいな水夫長": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "おっちょこちょいな水夫長",
+    "sourceUrl": "https://9-bit.jp/skygold/19249/",
+    "season": "深淵の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby10.jpg"
+  },
+  "mask/049_動じない提督": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "動じない提督",
+    "sourceUrl": "https://9-bit.jp/skygold/19246/",
+    "season": "深淵の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby11.jpg"
+  },
+  "mask/050_豪快に笑う砲手": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "豪快に笑う砲手",
+    "sourceUrl": "https://9-bit.jp/skygold/19251/",
+    "season": "深淵の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby12.jpg"
+  },
+  "mask/051_深淵の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極／特殊",
+    "source": "深淵の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56974/",
+    "season": "深淵の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby13.jpg"
+  },
+  "mask/052_深淵の案内人": {
+    "availability": "恒常",
+    "method": "交換／特殊",
+    "source": "深淵の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56974/",
+    "season": "深淵の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/01/mask96.jpg"
+  },
+  "mask/053_繊細な漁師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "繊細な漁師",
+    "sourceUrl": "https://9-bit.jp/skygold/19215/",
+    "season": "深淵の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby15.jpg"
+  },
+  "mask/054_表現者たちの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "表現者たちの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/47079/",
+    "season": "表現者たちの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop22.jpg"
+  },
+  "mask/055_慎み深い踊り手": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "慎み深い踊り手",
+    "sourceUrl": "https://9-bit.jp/skygold/21154/",
+    "season": "表現者たちの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop17.jpg"
+  },
+  "mask/056_一生懸命な舞台美術家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "一生懸命な舞台美術家",
+    "sourceUrl": "https://9-bit.jp/skygold/21156/",
+    "season": "表現者たちの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop18.jpg"
+  },
+  "mask/057_表現者たちの季節のクエストのマスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "表現者たちの季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/21577/",
+    "season": "表現者たちの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/mask103.jpg"
+  },
+  "mask/058_忘れっぽい劇作家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "忘れっぽい劇作家",
+    "sourceUrl": "https://9-bit.jp/skygold/21089/",
+    "season": "表現者たちの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop19.jpg"
+  },
+  "mask/059_のんびり屋の音楽家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "のんびり屋の音楽家",
+    "sourceUrl": "https://9-bit.jp/skygold/21076/",
+    "season": "表現者たちの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop20.jpg"
+  },
+  "mask/060_万古の闇": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "万古の闇",
+    "sourceUrl": "https://9-bit.jp/skygold/23506/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/06/item_sos06.jpg"
+  },
+  "mask/061_希望の君": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "希望の君",
+    "sourceUrl": "https://9-bit.jp/skygold/26577/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa01.jpg"
+  },
+  "mask/062_駆けゆく旅人": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "駆けゆく旅人",
+    "sourceUrl": "https://9-bit.jp/skygold/26571/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa02.jpg"
+  },
+  "mask/063_慈愛の戦士": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "慈愛の戦士",
+    "sourceUrl": "https://9-bit.jp/skygold/26575/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa03.jpg"
+  },
+  "mask/064_覚醒の採掘者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "覚醒の採掘者",
+    "sourceUrl": "https://9-bit.jp/skygold/26573/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa04.jpg"
+  },
+  "mask/065_AURORA（クエスト報酬）": {
+    "availability": "復刻なし",
+    "method": "クエスト報酬",
+    "source": "AURORA",
+    "sourceUrl": "https://9-bit.jp/skygold/26754/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/mask_cureforme01.jpg"
+  },
+  "mask/066_喪失の初老": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "喪失の初老",
+    "sourceUrl": "https://9-bit.jp/skygold/28717/",
+    "season": "追慕の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i04.jpg"
+  },
+  "mask/067_傷ついた戦士": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "傷ついた戦士",
+    "sourceUrl": "https://9-bit.jp/skygold/28701/",
+    "season": "追慕の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i05.jpg"
+  },
+  "mask/068_ならいの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "ならいの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30741/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage50.jpg"
+  },
+  "mask/069_ならいの案内人（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ならいの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30741/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/230604_07.jpg"
+  },
+  "mask/070_ならいの案内人（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ならいの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30741/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/230604_04.jpg"
+  },
+  "mask/071_ならいの案内人（3）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ならいの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30741/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/230604_05.jpg"
+  },
+  "mask/072_ならいの案内人（4）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ならいの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/30741/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/230604_06.jpg"
+  },
+  "mask/073_頼もしい自然保護官": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "頼もしい自然保護官",
+    "sourceUrl": "https://9-bit.jp/skygold/33199/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment46.jpg"
+  },
+  "mask/074_節制の修行者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "節制の修行者",
+    "sourceUrl": "https://9-bit.jp/skygold/33203/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment47.jpg"
+  },
+  "mask/075_王女": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "王女",
+    "sourceUrl": "https://9-bit.jp/skygold/40052/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd21.jpg"
+  },
+  "mask/076_国王": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "国王",
+    "sourceUrl": "https://9-bit.jp/skygold/40050/",
+    "season": "九色の鹿の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd20.jpg"
+  },
+  "mask/077_壁画の精（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "壁画の精",
+    "sourceUrl": "https://9-bit.jp/skygold/40056/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd19.jpg"
+  },
+  "mask/078_九色の鹿の贈り物": {
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "ゲーム内ショップ で販売",
+    "sourceUrl": "https://9-bit.jp/skygold/40015/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd18.jpg"
+  },
+  "mask/079_音色の案内人": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "音色の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/44547/",
+    "season": "重なる音色の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i21.jpg"
+  },
+  "mask/080_光染めの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "光染めの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/50930/",
+    "season": "光に染まる季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_14.jpg"
+  },
+  "mask/081_衣装をまとう紙ふぶき好きのいとこ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "衣装をまとう紙ふぶき好きのいとこ",
+    "sourceUrl": "https://9-bit.jp/skygold/54441/",
+    "season": "青い鳥の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird97.jpg"
+  },
+  "mask/082_機知に富む隠とん者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "機知に富む隠とん者",
+    "sourceUrl": "https://9-bit.jp/skygold/58302/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers35.jpg"
+  },
+  "mask/083_厳格なマナティ飼い": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "厳格なマナティ飼い",
+    "sourceUrl": "https://9-bit.jp/skygold/58300/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers26b.jpg"
+  },
+  "mask/084_光修繕する案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "光修繕する案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/63063/",
+    "season": "光の修繕者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_04.jpg"
+  },
+  "mask/085_光修繕する開拓者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する開拓者",
+    "sourceUrl": "https://9-bit.jp/skygold/63055/",
+    "season": "光の修繕者の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_05.jpg"
+  },
+  "mask/086_光修繕する優勝者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する優勝者",
+    "sourceUrl": "https://9-bit.jp/skygold/63048/",
+    "season": "光の修繕者の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_06.jpg"
+  },
+  "mask/087_光修繕する光学者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する光学者",
+    "sourceUrl": "https://9-bit.jp/skygold/63061/",
+    "season": "光の修繕者の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_07.jpg"
+  },
+  "mask/088_光修繕する光採取者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する光採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/63059/",
+    "season": "光の修繕者の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_08.jpg"
+  },
+  "mask/089_カーニバルの曲芸師": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの曲芸師",
+    "sourceUrl": "https://9-bit.jp/skygold/65289/",
+    "season": "カーニバルの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival65.jpg"
+  },
+  "mask/090_カーニバルの旋舞家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの旋舞家",
+    "sourceUrl": "https://9-bit.jp/skygold/65389/",
+    "season": "カーニバルの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival66.jpg"
+  },
+  "mask/091_来福ほっぺ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々(2021~)",
+    "sourceUrl": "https://9-bit.jp/skygold/11613/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/mask73.jpg"
+  },
+  "mask/092_来福の日々を祝う丑マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々(2021~)",
+    "sourceUrl": "https://9-bit.jp/skygold/11613/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/mask74.jpg"
+  },
+  "mask/093_来福の日々を祝う寅マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/19670/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/mask90.jpg"
+  },
+  "mask/094_来福の日々 兎マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29093/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/mask115.jpg"
+  },
+  "mask/095_来福の日々辰マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/40113/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/12/fortune07.jpg"
+  },
+  "mask/096_愛しみの日々を祝うマスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "愛しみの日々(2021~)",
+    "sourceUrl": "https://9-bit.jp/skygold/11613/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/mask75.jpg"
+  },
+  "mask/097_オーシャン・マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自然の日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/43264/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/05/nature24_15.jpg"
+  },
+  "mask/098_オーシャン・ウェーブ・マスク": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "自然の日々(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/54605/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/na2513.jpg"
+  },
+  "mask/099_月虹マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "彩なす日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/43300/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/06/color24_i09.jpg"
+  },
+  "mask/100_彩なすフェイスペイント": {
+    "availability": "限定",
+    "method": "販売／特殊",
+    "source": "彩なす日々(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/54611/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/05/rb2545.jpg"
+  },
+  "mask/101_彩なすマスク": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262706.jpg"
+  },
+  "mask/102_お洒落ランウェイマスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "お洒落な日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/35357/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/09/2300921_19.jpg"
+  },
+  "mask/103_猫がテーマのマスク": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "いたずらな日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/26925/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/itazura22_88.jpg"
+  },
+  "mask/104_いたずら蟹伯爵マスク": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "いたずらな日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/37376/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/itzr31.jpg"
+  },
+  "mask/105_花笑むバラの花びらマスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "花笑む日々(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/52797/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/03/25031903.jpg"
+  },
+  "mask/106_来福の日々2026のマスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々(2026~)",
+    "sourceUrl": "https://9-bit.jp/skygold/63869/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/02/021038.jpg"
+  },
+  "mask/107_陽光の日々2026のマスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/67799/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/25072803.jpg"
+  },
+  "mask/108_すずめ感謝パック": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "花鳥郷アイテムショップで販売",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/11/fireworkfes10.jpg"
+  },
+  "mask/109_風ノ旅ビト": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "花鳥郷アイテムショップで販売",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/ps06.jpg"
+  },
+  "mask/110_超越せし風ノ旅ビト": {
+    "availability": "恒常",
+    "method": "販売",
+    "source": "花鳥郷アイテムショップで販売",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/03/250221223.jpg"
+  },
+  "mask/111_誇り高き勝者": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "誇り高き勝者",
+    "sourceUrl": "https://9-bit.jp/skygold/8763/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask22.jpg"
+  },
+  "mask/112_来福の日々巳マスク": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51027/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/evcurrency2501_27.jpg"
+  }
+}

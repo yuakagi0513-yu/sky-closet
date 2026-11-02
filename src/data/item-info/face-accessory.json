@@ -1,0 +1,275 @@
+{
+  "face-accessory/001_固辞する航行者": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "固辞する航行者",
+    "sourceUrl": "https://9-bit.jp/skygold/8517/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask03.jpg"
+  },
+  "face-accessory/002_疲弊した荷積み人": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "疲弊した荷積み人",
+    "sourceUrl": "https://9-bit.jp/skygold/8613/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask04.jpg"
+  },
+  "face-accessory/003_反省する木こり": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "反省する木こり",
+    "sourceUrl": "https://9-bit.jp/skygold/8726/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask05.jpg"
+  },
+  "face-accessory/004_宙返りをする優勝者": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "宙返りをする優勝者",
+    "sourceUrl": "https://9-bit.jp/skygold/8815/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask07.jpg"
+  },
+  "face-accessory/005_お辞儀をするメダリスト": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "お辞儀をするメダリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/8807/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask08.jpg"
+  },
+  "face-accessory/006_警戒する斥候": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "警戒する斥候",
+    "sourceUrl": "https://9-bit.jp/skygold/8864/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask10.jpg"
+  },
+  "face-accessory/007_念動力の使い手": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "念動力の使い手",
+    "sourceUrl": "https://9-bit.jp/skygold/8901/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mask11.jpg"
+  },
+  "face-accessory/008_究極の贈り物（孤島ティア2）": {
+    "availability": "恒常",
+    "method": "交換／究極／特殊",
+    "source": "究極の贈り物（孤島ティア2）",
+    "sourceUrl": "https://9-bit.jp/skygold/24989/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/08/mask71.jpg"
+  },
+  "face-accessory/009_究極の贈り物（草原ティア2）": {
+    "availability": "恒常",
+    "method": "交換／究極／特殊",
+    "source": "究極の贈り物（草原ティア2）",
+    "sourceUrl": "https://9-bit.jp/skygold/24989/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/08/mask70.jpg"
+  },
+  "face-accessory/010_究極の贈り物（雨林ティア2）": {
+    "availability": "恒常",
+    "method": "交換／究極／特殊",
+    "source": "究極の贈り物（雨林ティア2）",
+    "sourceUrl": "https://9-bit.jp/skygold/24989/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/08/mask69.jpg"
+  },
+  "face-accessory/011_究極の贈り物（峡谷ティア2）（1）": {
+    "availability": "恒常",
+    "method": "交換／究極／特殊",
+    "source": "究極の贈り物（峡谷ティア2）",
+    "sourceUrl": "https://9-bit.jp/skygold/62774/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/25111445.jpg"
+  },
+  "face-accessory/012_究極の贈り物（峡谷ティア2）（2）": {
+    "availability": "恒常",
+    "method": "交換／究極／特殊",
+    "source": "究極の贈り物（峡谷ティア2）",
+    "sourceUrl": "https://9-bit.jp/skygold/62774/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/25111443.jpg"
+  },
+  "face-accessory/013_くつろぐ日光浴者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "くつろぐ日光浴者",
+    "sourceUrl": "https://9-bit.jp/skygold/7884/",
+    "season": "楽園の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/06/eventitem13.jpg"
+  },
+  "face-accessory/014_瞬きの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "交換／究極",
+    "source": "瞬きの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/33193/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment43.jpg"
+  },
+  "face-accessory/015_頼もしい自然保護官": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "頼もしい自然保護官",
+    "sourceUrl": "https://9-bit.jp/skygold/33199/",
+    "season": "瞬きの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment44.jpg"
+  },
+  "face-accessory/016_上機嫌な地質学者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "上機嫌な地質学者",
+    "sourceUrl": "https://9-bit.jp/skygold/33201/",
+    "season": "瞬きの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment45.jpg"
+  },
+  "face-accessory/017_思いやり深いチェリスト": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "思いやり深いチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/46976/",
+    "season": "重なる音色の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i61.jpg"
+  },
+  "face-accessory/018_青い鳥の案内人": {
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "青い鳥の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/54449/",
+    "season": "青い鳥の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird94-1.jpg"
+  },
+  "face-accessory/019_神聖な祖たる賢者": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "神聖な祖たる賢者",
+    "sourceUrl": "https://9-bit.jp/skygold/54439/",
+    "season": "青い鳥の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird201.jpg"
+  },
+  "face-accessory/020_渡りの案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "渡りの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/60893/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration29.jpg"
+  },
+  "face-accessory/021_自然のサングラス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "自然の日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/30977/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage156.jpg"
+  },
+  "face-accessory/022_お洒落スターサングラス": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "お洒落な日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/35357/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/09/2300921_02.jpg"
+  },
+  "face-accessory/023_お洒落ファイアサングラス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "お洒落な日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/35357/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/09/2300921_03.jpg"
+  },
+  "face-accessory/024_お洒落ハートサングラス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "お洒落な日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/35357/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/09/2300921_04.jpg"
+  },
+  "face-accessory/025_お洒落スタイリッシュトリオ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "お洒落な日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/45709/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/style01.jpg"
+  },
+  "face-accessory/026_いたずら星札アクセサリー": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "いたずらな日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/47311/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/mischief07.jpg"
+  },
+  "face-accessory/027_聖なるゴーグル": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/28084/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/mask105.jpg"
+  },
+  "face-accessory/028_アニバーサリーシアターセット": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/25062504.jpg"
+  },
+  "face-accessory/029_パープルの眼鏡": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010717.jpg"
+  },
+  "face-accessory/030_パーソナリティチェックのフェイスアクセサリー1": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010718.jpg"
+  },
+  "face-accessory/031_パーソナリティチェックのフェイスアクセサリー2": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "パーソナリティチェック",
+    "sourceUrl": "https://9-bit.jp/skygold/62850/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26010719.jpg"
+  },
+  "face-accessory/032_来福古銭グラス": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63869/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/02/021030.jpg"
+  },
+  "face-accessory/033_渡りの鐘職人": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "渡りの鐘職人",
+    "sourceUrl": "https://9-bit.jp/skygold/60890/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration104.jpg"
+  }
+}

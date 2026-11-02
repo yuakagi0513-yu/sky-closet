@@ -1,0 +1,1069 @@
+{
+  "outfit/001_初期パンツ": {
+    "shoes": false,
+    "availability": "恒常",
+    "source": "ゲーム開始時に所持",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408739.jpg"
+  },
+  "outfit/002_かくれんぼ提唱者": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "かくれんぼ提唱者",
+    "sourceUrl": "https://9-bit.jp/skygold/8701/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408740.jpg"
+  },
+  "outfit/003_凍える先駆者": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "凍える先駆者",
+    "sourceUrl": "https://9-bit.jp/skygold/8665/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408741.jpg"
+  },
+  "outfit/004_敬けんな賢人": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "敬けんな賢人",
+    "sourceUrl": "https://9-bit.jp/skygold/8911/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408742.jpg"
+  },
+  "outfit/005_指差すキャンドル職人": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "指差すキャンドル職人",
+    "sourceUrl": "https://9-bit.jp/skygold/8510/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408743.jpg"
+  },
+  "outfit/006_自信に満ちた観光客": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "自信に満ちた観光客",
+    "sourceUrl": "https://9-bit.jp/skygold/8755/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408744.jpg"
+  },
+  "outfit/007_記憶の語り部": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "記憶の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/8923/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408745.jpg"
+  },
+  "outfit/008_先導する流民": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "先導する流民",
+    "sourceUrl": "https://9-bit.jp/skygold/8494/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408746.jpg"
+  },
+  "outfit/009_蝶々使い": {
+    "shoes": false,
+    "availability": "恒常",
+    "method": "交換",
+    "source": "蝶々使い",
+    "sourceUrl": "https://9-bit.jp/skygold/8526/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408747.jpg"
+  },
+  "outfit/010_海月の語り部": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "海月の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/7897/",
+    "season": "楽園の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/06/eventitem21.jpg"
+  },
+  "outfit/011_そっと覗く郵便屋": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "そっと覗く郵便屋",
+    "sourceUrl": "https://9-bit.jp/skygold/10817/",
+    "season": "夢かなう季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item11.jpg"
+  },
+  "outfit/012_含み笑いのスカウト": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "含み笑いのスカウト",
+    "sourceUrl": "https://9-bit.jp/skygold/12819/",
+    "season": "大樹に集う季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as08.jpg"
+  },
+  "outfit/013_ご満悦のうぬぼれ屋": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "ご満悦のうぬぼれ屋",
+    "sourceUrl": "https://9-bit.jp/skygold/14835/",
+    "season": "星の王子さまの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_19.jpg"
+  },
+  "outfit/014_万古の光": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "万古の光",
+    "sourceUrl": "https://9-bit.jp/skygold/23506/",
+    "season": "砕ケル闇ノ季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/06/item_sos13.jpg"
+  },
+  "outfit/015_覚醒の採掘者": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "覚醒の採掘者",
+    "sourceUrl": "https://9-bit.jp/skygold/26573/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa06.jpg"
+  },
+  "outfit/016_ランナウェイドレス": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "円形劇場のショップで販売",
+    "sourceUrl": "https://9-bit.jp/skygold/24861/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa28.jpg"
+  },
+  "outfit/017_トゥ・ザ・ラブ・アウトフィット": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "円形劇場のショップで販売",
+    "sourceUrl": "https://9-bit.jp/skygold/24861/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/pants65.jpg"
+  },
+  "outfit/018_AURORA（究極）": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "AURORA",
+    "sourceUrl": "https://9-bit.jp/skygold/26754/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/10/item_soa62.jpg"
+  },
+  "outfit/019_キュア・フォー・ミー・アウトフィット": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "クエスト報酬",
+    "source": "AURORA",
+    "sourceUrl": "https://9-bit.jp/skygold/26754/",
+    "season": "AURORAの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/pants_cureforme01.jpg"
+  },
+  "outfit/020_懇願する幼子": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "懇願する幼子",
+    "sourceUrl": "https://9-bit.jp/skygold/28721/",
+    "season": "追慕の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i01.jpg"
+  },
+  "outfit/021_節制の修行者": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "節制の修行者",
+    "sourceUrl": "https://9-bit.jp/skygold/33203/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment49.jpg"
+  },
+  "outfit/022_夜鳥の語り部": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "夜鳥の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/33197/",
+    "season": "瞬きの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/moment50.jpg"
+  },
+  "outfit/023_失われし村の記憶": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "失われし村の記憶",
+    "sourceUrl": "https://9-bit.jp/skygold/37282/",
+    "season": "復古の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/revival18.jpg"
+  },
+  "outfit/024_壁画の精（究極）": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "壁画の精",
+    "sourceUrl": "https://9-bit.jp/skygold/40056/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd97.jpg"
+  },
+  "outfit/025_薬草採集人": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "薬草採集人",
+    "sourceUrl": "https://9-bit.jp/skygold/40048/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd24.jpg"
+  },
+  "outfit/026_王女": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "王女",
+    "sourceUrl": "https://9-bit.jp/skygold/40052/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd23.jpg"
+  },
+  "outfit/027_駆けだしのピアニスト": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "駆けだしのピアニスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44447/",
+    "season": "重なる音色の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i12.jpg"
+  },
+  "outfit/028_栄光のピアニスト": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "栄光のピアニスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44515/",
+    "season": "重なる音色の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i03.jpg"
+  },
+  "outfit/029_駆けだしのチェリスト": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "駆けだしのチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44449/",
+    "season": "重なる音色の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i09.jpg"
+  },
+  "outfit/030_栄光のチェリスト": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "栄光のチェリスト",
+    "sourceUrl": "https://9-bit.jp/skygold/44443/",
+    "season": "重なる音色の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/duets_i06.jpg"
+  },
+  "outfit/031_包容力の源": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "包容力の源",
+    "sourceUrl": "https://9-bit.jp/skygold/47164/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins52.jpg"
+  },
+  "outfit/032_ムーミンの本（クエスト報酬）": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "クエスト報酬",
+    "source": "ムーミンの本",
+    "sourceUrl": "https://9-bit.jp/skygold/47166/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins53.jpg"
+  },
+  "outfit/033_ムーミンの本（究極）": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "ムーミンの本",
+    "sourceUrl": "https://9-bit.jp/skygold/47166/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins51.jpg"
+  },
+  "outfit/034_光に染まる挑戦的な表現者": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光に染まる挑戦的な表現者",
+    "sourceUrl": "https://9-bit.jp/skygold/50924/",
+    "season": "光に染まる季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_17.jpg"
+  },
+  "outfit/035_光に染まる飛び跳ねる舞踏家": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光に染まる飛び跳ねる舞踏家",
+    "sourceUrl": "https://9-bit.jp/skygold/50926/",
+    "season": "光に染まる季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_18.jpg"
+  },
+  "outfit/036_光に染まる礼を尽くす祈祷師": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光に染まる礼を尽くす祈祷師",
+    "sourceUrl": "https://9-bit.jp/skygold/50928/",
+    "season": "光に染まる季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_19.jpg"
+  },
+  "outfit/037_木こりの訴えかける親": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "木こりの訴えかける親",
+    "sourceUrl": "https://9-bit.jp/skygold/54447/",
+    "season": "青い鳥の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird100.jpg"
+  },
+  "outfit/038_厳格なマナティ飼い": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "厳格なマナティ飼い",
+    "sourceUrl": "https://9-bit.jp/skygold/58300/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers26.jpg"
+  },
+  "outfit/039_機知に富む隠とん者": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "機知に富む隠とん者",
+    "sourceUrl": "https://9-bit.jp/skygold/58302/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers36.jpg"
+  },
+  "outfit/040_手負いの巡回兵": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "手負いの巡回兵",
+    "sourceUrl": "https://9-bit.jp/skygold/58304/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers33.jpg"
+  },
+  "outfit/041_心優しき玩具職人": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "心優しき玩具職人",
+    "sourceUrl": "https://9-bit.jp/skygold/58296/",
+    "season": "ふたつの灯火の季節前篇",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers03.jpg"
+  },
+  "outfit/042_渡りの鳥の語り部": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "渡りの鳥の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/60876/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration24.jpg"
+  },
+  "outfit/043_渡りの案内人（究極）": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "渡りの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/60893/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration14.jpg"
+  },
+  "outfit/044_渡りの海月の語り部": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "渡りの海月の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/60779/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration26.jpg"
+  },
+  "outfit/045_カーニバルの曲芸師": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの曲芸師",
+    "sourceUrl": "https://9-bit.jp/skygold/65289/",
+    "season": "カーニバルの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival71.jpg"
+  },
+  "outfit/046_カーニバルの謎解き座長": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの謎解き座長",
+    "sourceUrl": "https://9-bit.jp/skygold/65356/",
+    "season": "カーニバルの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival72.jpg"
+  },
+  "outfit/047_花笑むひまわりサンドレス": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031009.jpg"
+  },
+  "outfit/048_花笑む日々2026のパンツ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031008.jpg"
+  },
+  "outfit/049_海波の装い": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "自然の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/54605/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/na2569.jpg"
+  },
+  "outfit/050_虹かけるトラウザーズ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "彩なす日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/16885/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/item_rd05.jpg"
+  },
+  "outfit/051_彩なす前結びジャンプスーツ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262707.jpg"
+  },
+  "outfit/052_彩なすスモック": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "彩なす日々(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/54611/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/05/rb2548.jpg"
+  },
+  "outfit/053_5周年記念Tシャツ": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "SkyFest2024",
+    "sourceUrl": "https://9-bit.jp/skygold/44239/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/5th_20.jpg"
+  },
+  "outfit/054_聖なる星の日々2025のパンツ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111352.jpg"
+  },
+  "outfit/055_大競技会チュニック": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "凱旋の大競技会",
+    "sourceUrl": "https://9-bit.jp/skygold/44301/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/07/totr13.jpg"
+  },
+  "outfit/056_トレジャーハンターの財宝": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "宝探しの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/52764/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/02/dotr06.jpg"
+  },
+  "outfit/057_陽光の水遊び着": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々 2024",
+    "sourceUrl": "https://9-bit.jp/skygold/45636/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/08/sunloght31.jpg"
+  },
+  "outfit/058_陽光ボンネットセット": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々 2025",
+    "sourceUrl": "https://9-bit.jp/skygold/59663/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/08/25082608.jpg"
+  },
+  "outfit/059_陽光ダイビングセット": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々 2026",
+    "sourceUrl": "https://9-bit.jp/skygold/67799/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/25072802.jpg"
+  },
+  "outfit/060_月灯りの衣": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "月灯りの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/45702/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/moonlight08.jpg"
+  },
+  "outfit/061_お洒落ワイドデニム": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "お洒落な日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/35357/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/09/2300921_27.jpg"
+  },
+  "outfit/062_お洒落キラメキドレス": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "お洒落な日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/45709/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/style23.jpg"
+  },
+  "outfit/063_お洒落スタイリッシュトリオ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "お洒落な日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/45709/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/style02.jpg"
+  },
+  "outfit/064_いたずらウィッチ・ジャンパースカート": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "いたずらな日々(2021~)",
+    "sourceUrl": "https://9-bit.jp/skygold/16885/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/hl02.jpg"
+  },
+  "outfit/065_いたずらゴススーツ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "いたずらな日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/37376/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/10/itzr23_17.jpg"
+  },
+  "outfit/066_不思議のエプロンドレス": {
+    "shoes": false,
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "不思議の国のアリスカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/49118/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/12/alicecafe20.jpg"
+  },
+  "outfit/067_来福スネークパンツ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/51027/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/evcurrency2501_30.jpg"
+  },
+  "outfit/068_アニバーサリーロングドレスパック": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "6周年イベント(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/250625963.jpg"
+  },
+  "outfit/069_大競技会スケートパック": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "凱旋の大競技会(2026~)",
+    "sourceUrl": "https://9-bit.jp/skygold/63354/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/26011715.jpg"
+  },
+  "outfit/070_宝探しの日々2026のパンツ": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "宝探しの日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65957/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/26040403.jpg"
+  },
+  "outfit/071_流れる青いドレス": {
+    "shoes": false,
+    "availability": "限定",
+    "method": "販売",
+    "source": "自然の日々(2026~)",
+    "sourceUrl": "https://9-bit.jp/skygold/64847/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/26040205.jpg"
+  },
+  "outfit/072_音と舞う幼子": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "音と舞う幼子",
+    "sourceUrl": "https://9-bit.jp/skygold/5179/",
+    "season": "想いを編む季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/pants47.jpg"
+  },
+  "outfit/073_一座の進行役": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "一座の進行役",
+    "sourceUrl": "https://9-bit.jp/skygold/6037/",
+    "season": "リズムが弾ける季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/pants09.jpg"
+  },
+  "outfit/074_一座の曲芸師": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "一座の曲芸師",
+    "sourceUrl": "https://9-bit.jp/skygold/6049/",
+    "season": "リズムが弾ける季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/pants10.jpg"
+  },
+  "outfit/075_祝祭の旋舞家": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "祝祭の旋舞家",
+    "sourceUrl": "https://9-bit.jp/skygold/15203/",
+    "season": "リズムが弾ける季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/pants11.jpg"
+  },
+  "outfit/076_うっとりするような旅役者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "うっとりするような旅役者",
+    "sourceUrl": "https://9-bit.jp/skygold/6047/",
+    "season": "リズムが弾ける季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/pants12.jpg"
+  },
+  "outfit/077_奮い立つ怖いもの知らず": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "奮い立つ怖いもの知らず",
+    "sourceUrl": "https://9-bit.jp/skygold/7890/",
+    "season": "楽園の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/06/pants18.jpg"
+  },
+  "outfit/078_火の預言者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "火の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9494/",
+    "season": "預言者の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/pants45.jpg"
+  },
+  "outfit/079_ハグ好きの隠者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "ハグ好きの隠者",
+    "sourceUrl": "https://9-bit.jp/skygold/10832/",
+    "season": "夢かなう季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/12/item12.jpg"
+  },
+  "outfit/080_王子さまの剣士服": {
+    "shoes": true,
+    "availability": "復刻なし",
+    "method": "交換",
+    "source": "バラ",
+    "sourceUrl": "https://9-bit.jp/skygold/10237/",
+    "season": "星の王子さまの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_20.jpg"
+  },
+  "outfit/081_バラ（究極）": {
+    "shoes": true,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "バラ",
+    "sourceUrl": "https://9-bit.jp/skygold/56940/",
+    "season": "星の王子さまの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_21.jpg"
+  },
+  "outfit/082_羽ばたく案内人（究極）": {
+    "shoes": true,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "羽ばたく案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/56791/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly13.jpg"
+  },
+  "outfit/083_腕利きの工匠": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "腕利きの工匠",
+    "sourceUrl": "https://9-bit.jp/skygold/17170/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly14.jpg"
+  },
+  "outfit/084_光の語り部": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/17149/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly16.jpg"
+  },
+  "outfit/085_工夫好きの風鈴職人": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "工夫好きの風鈴職人",
+    "sourceUrl": "https://9-bit.jp/skygold/17142/",
+    "season": "羽ばたく季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/itm_fly15.jpg"
+  },
+  "outfit/086_繊細な漁師": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "繊細な漁師",
+    "sourceUrl": "https://9-bit.jp/skygold/19215/",
+    "season": "深淵の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/12/itm_aby16.jpg"
+  },
+  "outfit/087_慎み深い踊り手": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "慎み深い踊り手",
+    "sourceUrl": "https://9-bit.jp/skygold/21154/",
+    "season": "表現者たちの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop12.jpg"
+  },
+  "outfit/088_一生懸命な舞台美術家": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "一生懸命な舞台美術家",
+    "sourceUrl": "https://9-bit.jp/skygold/21156/",
+    "season": "表現者たちの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop13.jpg"
+  },
+  "outfit/089_忘れっぽい劇作家": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "忘れっぽい劇作家",
+    "sourceUrl": "https://9-bit.jp/skygold/21089/",
+    "season": "表現者たちの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/03/icn_sop21.jpg"
+  },
+  "outfit/090_傷ついた戦士": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "傷ついた戦士",
+    "sourceUrl": "https://9-bit.jp/skygold/28701/",
+    "season": "追慕の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i03.jpg"
+  },
+  "outfit/091_ぬき足の茶人": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "ぬき足の茶人",
+    "sourceUrl": "https://9-bit.jp/skygold/28719/",
+    "season": "追慕の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i02.jpg"
+  },
+  "outfit/092_物憂げなとぼとぼ歩き": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "物憂げなとぼとぼ歩き",
+    "sourceUrl": "https://9-bit.jp/skygold/30739/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage61.jpg"
+  },
+  "outfit/093_風変わりなひとり好き": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "風変わりなひとり好き",
+    "sourceUrl": "https://9-bit.jp/skygold/30737/",
+    "season": "ならいの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/04/passage62.jpg"
+  },
+  "outfit/094_狩人": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "狩人",
+    "sourceUrl": "https://9-bit.jp/skygold/40054/",
+    "season": "九色の鹿の季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/01/ninecd22.jpg"
+  },
+  "outfit/095_巣づくりの案内人（究極）": {
+    "shoes": true,
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "巣づくりの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/41943/",
+    "season": "巣づくりの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i04.jpg"
+  },
+  "outfit/096_衣装をまとう紙ふぶき好きのいとこ": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "衣装をまとう紙ふぶき好きのいとこ",
+    "sourceUrl": "https://9-bit.jp/skygold/54441/",
+    "season": "青い鳥の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird08.jpg"
+  },
+  "outfit/097_スナフキンの服セット": {
+    "shoes": true,
+    "availability": "復刻なし",
+    "method": "販売",
+    "source": "ゲーム内ショップで販売",
+    "sourceUrl": "https://9-bit.jp/skygold/44794/",
+    "season": "ムーミンの季節",
+    "dyeable": false,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins17.jpg"
+  },
+  "outfit/098_高貴なぽんぽんする若者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "高貴なぽんぽんする若者",
+    "sourceUrl": "https://9-bit.jp/skygold/54443/",
+    "season": "青い鳥の季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird92-2.jpg"
+  },
+  "outfit/099_渡りのマンタの語り部": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "渡りのマンタの語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/60881/",
+    "season": "渡りの季節",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/migration23.jpg"
+  },
+  "outfit/100_光修繕する開拓者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する開拓者",
+    "sourceUrl": "https://9-bit.jp/skygold/63055/",
+    "season": "光の修繕者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_14.jpg"
+  },
+  "outfit/101_光修繕する優勝者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する優勝者",
+    "sourceUrl": "https://9-bit.jp/skygold/63048/",
+    "season": "光の修繕者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_15.jpg"
+  },
+  "outfit/102_光修繕する光学者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "光修繕する光学者",
+    "sourceUrl": "https://9-bit.jp/skygold/63061/",
+    "season": "光の修繕者の季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/01/260111_16.jpg"
+  },
+  "outfit/103_カーニバルの旋舞家": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの旋舞家",
+    "sourceUrl": "https://9-bit.jp/skygold/65389/",
+    "season": "カーニバルの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival69.jpg"
+  },
+  "outfit/104_カーニバルの旅役者": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの旅役者",
+    "sourceUrl": "https://9-bit.jp/skygold/65405/",
+    "season": "カーニバルの季節",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival70.jpg"
+  },
+  "outfit/105_来福の壁絵師スモック": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29093/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/pants72.jpg"
+  },
+  "outfit/106_来福竜の式服": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々 (2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/40113/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/12/fortune10.jpg"
+  },
+  "outfit/107_花笑む園丁チュニック": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29990/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/02/ev_ait07.jpg"
+  },
+  "outfit/108_月虹チュニック": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "販売",
+    "source": "彩なす日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/31554/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/05/color43.jpg"
+  },
+  "outfit/109_音楽マーチングバンド・ユニフォーム": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "販売",
+    "source": "音楽の日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/49005/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408848.jpg"
+  },
+  "outfit/110_アニバーサリースーツ": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "交換",
+    "source": "6周年イベント(2025~)",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "dyeable": true,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/6th_23.jpg"
+  },
+  "outfit/111_来福ひだ付き装束": {
+    "shoes": true,
+    "availability": "限定",
+    "method": "販売",
+    "source": "来福の日々(2026~)",
+    "sourceUrl": "https://9-bit.jp/skygold/63869/",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/02/021028.jpg"
+  }
+}

@@ -1,0 +1,1046 @@
+{
+  "prop/001_陽光マンタフロート": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/45636/",
+    "effect": "水に浮かべてその上に乗れる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/08/sunloght30.jpg"
+  },
+  "prop/002_チャットテーブル": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "瞑想する修道士",
+    "sourceUrl": "https://9-bit.jp/skygold/8915/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki19.jpg"
+  },
+  "prop/003_祝祭の旋舞家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "祝祭の旋舞家",
+    "sourceUrl": "https://9-bit.jp/skygold/6045/",
+    "season": "リズムが弾ける季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/04/prop15.jpg"
+  },
+  "prop/004_光の玉": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "けんかごっこ好きの植物採取者",
+    "sourceUrl": "https://9-bit.jp/skygold/5921/",
+    "season": "魔法の季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/04/prop20.jpg"
+  },
+  "prop/005_土管": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "蟹の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/5154/",
+    "season": "光の探求者の季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum05.jpg"
+  },
+  "prop/006_焚火": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "想いを編む季節",
+    "sourceUrl": "https://9-bit.jp/skygold/5248/",
+    "effect": "チャット機能＋エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/gakki25.jpg"
+  },
+  "prop/007_火鉢（一座の曲芸師）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "一座の曲芸師",
+    "sourceUrl": "https://9-bit.jp/skygold/6049/",
+    "season": "リズムが弾ける季節",
+    "effect": "エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum04.jpg"
+  },
+  "prop/008_火鉢（火の預言者）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "火の預言者",
+    "sourceUrl": "https://9-bit.jp/skygold/9494/",
+    "season": "預言者の季節",
+    "effect": "エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/10/ts52.jpg"
+  },
+  "prop/009_火鉢（大樹に集う季節のクエスト）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "大樹に集う季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/12860/",
+    "effect": "エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as24.jpg"
+  },
+  "prop/010_本棚": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "大樹に集う季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/12860/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as22.jpg"
+  },
+  "prop/011_ハンモック": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "臆病な見習い士官",
+    "sourceUrl": "https://9-bit.jp/skygold/12815/",
+    "season": "大樹に集う季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as23.jpg"
+  },
+  "prop/012_たいまつ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "行進する冒険家",
+    "sourceUrl": "https://9-bit.jp/skygold/12804/",
+    "season": "大樹に集う季節",
+    "effect": "エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as18.jpg"
+  },
+  "prop/013_テント（大樹に集う季節のクエスト）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "大樹に集う季節のクエスト",
+    "sourceUrl": "https://9-bit.jp/skygold/12860/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as27.jpg"
+  },
+  "prop/014_スポットライト": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "とまどう植物学者",
+    "sourceUrl": "https://9-bit.jp/skygold/12792/",
+    "season": "大樹に集う季節",
+    "effect": "照明効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as19.jpg"
+  },
+  "prop/015_輪っか": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "含み笑いのスカウト",
+    "sourceUrl": "https://9-bit.jp/skygold/12819/",
+    "season": "大樹に集う季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as20.jpg"
+  },
+  "prop/016_星の置物": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "星の収集家",
+    "sourceUrl": "https://9-bit.jp/skygold/14823/",
+    "season": "星の王子さまの季節",
+    "effect": "エフェクト効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/06/item_lp_01.jpg"
+  },
+  "prop/017_プランター（表現者たちの案内人）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "表現者たちの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/47079/",
+    "season": "表現者たちの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/241048.jpg"
+  },
+  "prop/018_追慕の案内人（1）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "追慕の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/28729/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance122.jpg"
+  },
+  "prop/019_追慕の案内人（2）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "追慕の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/28729/",
+    "effect": "チャット機能",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance123.jpg"
+  },
+  "prop/020_追慕の案内人（究極）": {
+    "availability": "復刻なし",
+    "method": "究極",
+    "source": "追慕の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/28729/",
+    "effect": "エフェクト＋エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/01/remembrance_i11.jpg"
+  },
+  "prop/021_冒険の心": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "冒険の心",
+    "sourceUrl": "https://9-bit.jp/skygold/47162/",
+    "season": "ムーミンの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins67.jpg"
+  },
+  "prop/022_光に染まる飛び跳ねる舞踏家": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "光に染まる飛び跳ねる舞踏家",
+    "sourceUrl": "https://9-bit.jp/skygold/50926/",
+    "season": "光に染まる季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25011615_33.jpg"
+  },
+  "prop/023_青い鳥の案内人": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "青い鳥の案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/54449/",
+    "season": "青い鳥の季節",
+    "effect": "チャット機能",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/04/bluebird184.jpg"
+  },
+  "prop/024_機知に富む隠とん者（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "機知に富む隠とん者",
+    "sourceUrl": "https://9-bit.jp/skygold/58302/",
+    "season": "ふたつの灯火の季節前篇",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers38.jpg"
+  },
+  "prop/025_機知に富む隠とん者（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "機知に富む隠とん者",
+    "sourceUrl": "https://9-bit.jp/skygold/58302/",
+    "season": "ふたつの灯火の季節前篇",
+    "effect": "チャット機能",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/embers37.jpg"
+  },
+  "prop/026_渡りの案内人": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "渡りの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/60893/",
+    "season": "渡りの季節",
+    "effect": "鐘の音を鳴らせる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/26010860.jpg"
+  },
+  "prop/027_月灯りバスタブ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "月灯りの日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/60202/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/09/25092305.jpg"
+  },
+  "prop/028_アニバーサリーシアターシート": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/25062503.jpg"
+  },
+  "prop/029_Skyバルーン": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/6th_24.jpg"
+  },
+  "prop/030_いたずら枯れ木": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "いたずらな日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/60658/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102532.jpg"
+  },
+  "prop/031_来福の日々2026のオルゴール": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/63869/",
+    "effect": "オルゴール機能",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/02/021039.jpg"
+  },
+  "prop/032_バルーンアーチ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "6周年アニバーサリー",
+    "sourceUrl": "https://9-bit.jp/skygold/56270/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/07/6th_32.jpg"
+  },
+  "prop/033_愛しみのブランコ": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "愛しみの日々（2021~）",
+    "sourceUrl": "https://9-bit.jp/skygold/5535/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/mahou04.jpg"
+  },
+  "prop/034_愛しみのシーソー": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "愛しみの日々（2021~）",
+    "sourceUrl": "https://9-bit.jp/skygold/5535/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/magic17.jpg"
+  },
+  "prop/035_愛しみのフラワーアーチ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "愛しみの日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29096/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/02/prop92.jpg"
+  },
+  "prop/036_花笑むピンクのティーセット": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々（2021~）",
+    "sourceUrl": "https://9-bit.jp/skygold/12227/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/03/item_as21.jpg"
+  },
+  "prop/037_テント（陽光の日々）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々（2022~）",
+    "sourceUrl": "https://9-bit.jp/skygold/25251/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/08/yoko14.jpg"
+  },
+  "prop/038_花笑むパープルのティーセット": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/20381/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/07/prop68.jpg"
+  },
+  "prop/039_花笑むピクニックバスケット": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "花笑む日々(2023~)",
+    "sourceUrl": "https://9-bit.jp/skygold/29990/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/03/prop113.jpg"
+  },
+  "prop/040_きらめきフェンス": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "３周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/23612/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/07/item_3y03.jpg"
+  },
+  "prop/041_パラソル": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "海月の語り部",
+    "sourceUrl": "https://9-bit.jp/skygold/7897/",
+    "season": "楽園の季節",
+    "effect": "設置のみ＋雨から身を守る",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2020/07/prop35.jpg"
+  },
+  "prop/042_ビーチリクライニングチェアー": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "くつろぐ日光浴者",
+    "sourceUrl": "https://9-bit.jp/skygold/7884/",
+    "season": "楽園の季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum06.jpg"
+  },
+  "prop/043_ペアのウッドチェア": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "感謝する貝殻収集家",
+    "sourceUrl": "https://9-bit.jp/skygold/7887/",
+    "season": "楽園の季節",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum07.jpg"
+  },
+  "prop/044_ペアデッキチェア": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "ハイキングする気難し屋",
+    "sourceUrl": "https://9-bit.jp/skygold/7876/",
+    "season": "楽園の季節",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/08/sum09.jpg"
+  },
+  "prop/045_スプーキー・ダイニングセット": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "いたずらな日々2021",
+    "sourceUrl": "https://9-bit.jp/skygold/16885/",
+    "effect": "チャット機能＋エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2021/09/hl03.jpg"
+  },
+  "prop/046_聖なるお祝いテーブル": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々",
+    "sourceUrl": "https://9-bit.jp/skygold/10321/",
+    "effect": "チャット機能＋エナジー回復効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2019/08/magic16.jpg"
+  },
+  "prop/047_ジャム・ステーション": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "音楽の日々(2024~)",
+    "sourceUrl": "https://9-bit.jp/skygold/49005/",
+    "effect": "シーケンス機能（トラック作成）",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408847.jpg"
+  },
+  "prop/048_Skyボール・トーナメントセット": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/28084/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/prop75.jpg"
+  },
+  "prop/049_ゆきんこの置物": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々(2022~)",
+    "sourceUrl": "https://9-bit.jp/skygold/28084/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2022/12/prop74.jpg"
+  },
+  "prop/050_アニバーサリーパーティーライト": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "4周年イベント",
+    "sourceUrl": "https://9-bit.jp/skygold/33544/",
+    "effect": "エフェクト効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2023/07/4th_51.jpg"
+  },
+  "prop/051_陽光蟹フロート": {
+    "availability": "限定",
+    "method": "販売",
+    "source": "陽光の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/67799/",
+    "effect": "3人乗りのフロートを設置",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/25072806.jpg"
+  },
+  "prop/052_パズルボックス": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "花鳥郷アイテムショップ",
+    "effect": "オリジナルパズル作成",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102533.jpg"
+  },
+  "prop/053_パズルチェスト": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "花鳥郷アイテムショップ",
+    "effect": "オリジナルパズル作成",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102534.jpg"
+  },
+  "prop/054_パズルケージ": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "花鳥郷アイテムショップ",
+    "effect": "オリジナルパズル作成",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/10/25102535.jpg"
+  },
+  "prop/055_石づくりの家具（1）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408932.jpg"
+  },
+  "prop/056_石づくりの家具（2）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408933.jpg"
+  },
+  "prop/057_石づくりの家具（3）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408934.jpg"
+  },
+  "prop/058_石づくりの家具（4）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408935.jpg"
+  },
+  "prop/059_石づくりの家具（5）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408936.jpg"
+  },
+  "prop/060_石づくりの家具（6）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408937.jpg"
+  },
+  "prop/061_石づくりの家具（7）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408938.jpg"
+  },
+  "prop/062_石づくりの家具（8）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408939.jpg"
+  },
+  "prop/063_石づくりの家具（9）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408940.jpg"
+  },
+  "prop/064_石づくりの家具（10）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408941.jpg"
+  },
+  "prop/065_石づくりの家具（11）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408942.jpg"
+  },
+  "prop/066_石づくりの家具（12）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408943.jpg"
+  },
+  "prop/067_石づくりの家具（13）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408944.jpg"
+  },
+  "prop/068_石づくりの家具（14）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408945.jpg"
+  },
+  "prop/069_石づくりの家具（15）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408946.jpg"
+  },
+  "prop/070_石づくりの家具（16）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/25032853.jpg"
+  },
+  "prop/071_石づくりの家具（17）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408948.jpg"
+  },
+  "prop/072_石づくりの家具（18）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408949.jpg"
+  },
+  "prop/073_石づくりの家具（19）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408950.jpg"
+  },
+  "prop/074_石づくりの家具（20）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408951.jpg"
+  },
+  "prop/075_石づくりの家具（21）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408952.jpg"
+  },
+  "prop/076_石づくりの家具（22）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408953.jpg"
+  },
+  "prop/077_石づくりの家具（23）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408954.jpg"
+  },
+  "prop/078_石づくりの家具（24）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408955.jpg"
+  },
+  "prop/079_石づくりの家具（25）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408956.jpg"
+  },
+  "prop/080_石づくりの家具（26）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408957.jpg"
+  },
+  "prop/081_石づくりの家具（27）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408958.jpg"
+  },
+  "prop/082_石づくりの家具（28）": {
+    "availability": "恒常",
+    "method": "交換",
+    "source": "巣づくりの工房で入手",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/11/2408959.jpg"
+  },
+  "prop/083_聖なる星の日々2025の設置物（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111354.jpg"
+  },
+  "prop/084_聖なる星の日々2025の設置物（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111355.jpg"
+  },
+  "prop/085_聖なる星の日々2025の設置物（3）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111356.jpg"
+  },
+  "prop/086_聖なる星の日々2025の設置物（4）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111357.jpg"
+  },
+  "prop/087_聖なる星の日々2025の設置物（5）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111358.jpg"
+  },
+  "prop/088_聖なる星の日々2025の設置物（6）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "聖なる星の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/62092/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/12/25111359.jpg"
+  },
+  "prop/089_ベッド": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i12.jpg"
+  },
+  "prop/090_椅子": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i13.jpg"
+  },
+  "prop/091_テーブル": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのサンルーム",
+    "sourceUrl": "https://9-bit.jp/skygold/41925/",
+    "season": "巣づくりの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i14.jpg"
+  },
+  "prop/092_ソファ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i15.jpg"
+  },
+  "prop/093_ランプ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "照明効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i16.jpg"
+  },
+  "prop/094_バスタブ": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのサンルーム",
+    "sourceUrl": "https://9-bit.jp/skygold/41925/",
+    "season": "巣づくりの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i17.jpg"
+  },
+  "prop/095_巣づくりのロフト": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "照明効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i18.jpg"
+  },
+  "prop/096_プランター（巣づくりのロフト）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "巣づくりのロフト",
+    "sourceUrl": "https://9-bit.jp/skygold/41934/",
+    "season": "巣づくりの季節",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i19.jpg"
+  },
+  "prop/097_シャンデリア": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "慈愛の安らぎ",
+    "sourceUrl": "https://9-bit.jp/skygold/47158/",
+    "season": "ムーミンの季節",
+    "effect": "照明効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins68.jpg"
+  },
+  "prop/098_時計": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "包容力の源",
+    "sourceUrl": "https://9-bit.jp/skygold/47164/",
+    "season": "ムーミンの季節",
+    "effect": "時間表示",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/moomins69.jpg"
+  },
+  "prop/099_月灯りランタン飾り": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "月灯りの日々",
+    "sourceUrl": "https://9-bit.jp/skygold/45702/",
+    "effect": "照明効果",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/09/moonlight07.jpg"
+  },
+  "prop/100_ふわふわカフェテーブル": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "シナモロールもくもくカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/41485/",
+    "effect": "他プレイヤーとチャットできる",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/04/i107.jpg"
+  },
+  "prop/101_いたずら大鍋": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "いたずらな日々2024",
+    "sourceUrl": "https://9-bit.jp/skygold/47311/",
+    "effect": "液体を飲んだ星の子の体が緑色に変色＋チャット機能",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/10/mischief05.jpg"
+  },
+  "prop/102_不思議のティーカップバス": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "不思議の国のアリスカフェ",
+    "sourceUrl": "https://9-bit.jp/skygold/49118/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2024/12/alicecafe16.jpg"
+  },
+  "prop/103_来福鉢植え": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51027/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25010642.jpg"
+  },
+  "prop/104_来福の縦長壁飾り": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51027/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25010643.jpg"
+  },
+  "prop/105_来福キャンドルガーランド": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "来福の日々2025",
+    "sourceUrl": "https://9-bit.jp/skygold/51027/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2025/01/25010644.jpg"
+  },
+  "prop/106_花笑む日々2026の設置物（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031006.jpg"
+  },
+  "prop/107_花笑む日々2026の設置物（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "花笑む日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64325/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/03/031007.jpg"
+  },
+  "prop/108_宝探しの日々2026の設置物（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "宝探しの日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65957/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/26040401.jpg"
+  },
+  "prop/109_自然の日々2026の設置物": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "自然の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/64847/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/26040203.jpg"
+  },
+  "prop/110_彩なす日々2026の設置物（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262733.jpg"
+  },
+  "prop/111_彩なす日々2026の設置物（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262734.jpg"
+  },
+  "prop/112_彩なす日々2026の設置物（3）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "彩なす日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65963/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/262735.jpg"
+  },
+  "prop/113_カーニバルの案内人（1）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/65455/",
+    "effect": "チャレンジツール",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival177.jpg"
+  },
+  "prop/114_カーニバルの案内人（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "カーニバルの案内人",
+    "sourceUrl": "https://9-bit.jp/skygold/65455/",
+    "effect": "チャレンジツール",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/04/carnival178.jpg"
+  },
+  "prop/115_宝探しの日々2026の設置物（2）": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "宝探しの日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/65957/",
+    "effect": "設置のみ",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/05/26081404.jpg"
+  },
+  "prop/116_陽光の日々2026の設置物": {
+    "availability": "限定",
+    "method": "交換",
+    "source": "陽光の日々2026",
+    "sourceUrl": "https://9-bit.jp/skygold/67799/",
+    "effect": "シェアスペースで使用可。サーフィンがスピードアップする",
+    "dyeable": null,
+    "iconUrl": "https://9-bit.jp/skygold/wp-content/uploads/2026/07/26081408.jpg"
+  }
+}
