@@ -2,6 +2,7 @@ import { ITEMS_BY_ID } from '../data/items'
 import { panel } from '../styles'
 import { PARTS, type Coordinate } from '../types'
 import { ItemIcon } from './ItemIcon'
+import { ScreenshotGallery } from './ScreenshotGallery'
 
 type Props = {
   coordinates: Coordinate[]
@@ -23,6 +24,10 @@ export function CoordinateList({ coordinates, onDelete }: Props) {
     <ul className="grid gap-6 sm:grid-cols-2">
       {coordinates.map((c) => (
         <li key={c.id} className={`${panel} flex flex-col overflow-hidden`}>
+          {c.screenshotIds && c.screenshotIds.length > 0 && (
+            <ScreenshotGallery ids={c.screenshotIds} alt={c.name} />
+          )}
+
           <div className="flex flex-1 flex-col p-5">
             <div className="mb-4 flex items-start justify-between gap-2 border-b border-subtle pb-3">
               <h3 className="text-base tracking-wider text-ink">{c.name}</h3>

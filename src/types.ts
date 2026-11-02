@@ -87,6 +87,8 @@ export type Coordinate = {
   name: string
   items: ItemSelection
   memo: string
+  /** 添付したスナップの id（画像本体は IndexedDB） */
+  screenshotIds?: string[]
   createdAt: number
   /** アイコン選択方式になる前に、テキストで登録したコーデの部位 */
   legacyParts?: Partial<Record<PartKey, string>>

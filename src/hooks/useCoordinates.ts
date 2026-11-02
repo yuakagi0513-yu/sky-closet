@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { deleteScreenshots } from '../lib/screenshots'
 import type { Coordinate } from '../types'
 
 const STORAGE_KEY = 'sky-closet:coordinates'
@@ -55,6 +56,12 @@ export function useCoordinates() {
   }
 
   const remove = (id: string) => {
+    const screenshotIds = coordinates.find((c) => c.id === id)?.screenshotIds
+    if (screenshotIds?.length) {
+      deleteScreenshots(screenshotIds).catch((e) =>
+        console.error('スナップの削除に失敗しました', e),
+      )
+    }
     setCoordinates((prev) => prev.filter((c) => c.id !== id))
   }
 

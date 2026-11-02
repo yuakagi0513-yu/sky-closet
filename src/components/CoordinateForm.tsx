@@ -1,5 +1,6 @@
 import { useState, type FormEvent } from 'react'
 import { ITEMS } from '../data/items'
+import { deleteScreenshots, saveScreenshot } from '../lib/screenshots'
 import { fieldLabel, panel, inputClass, primaryButton } from '../styles'
 import {
   PARTS,
@@ -8,6 +9,7 @@ import {
   type PartKey,
 } from '../types'
 import { ItemPicker } from './ItemPicker'
+import { ScreenshotInput, type PendingScreenshot } from './ScreenshotInput'
 
 type Props = {
   onSubmit: (input: Omit<Coordinate, 'id' | 'createdAt'>) => void
@@ -18,20 +20,42 @@ export function CoordinateForm({ onSubmit }: Props) {
   const [selection, setSelection] = useState<ItemSelection>({})
   const [memo, setMemo] = useState('')
   const [openPart, setOpenPart] = useState<PartKey | null>(null)
+  const [screenshots, setScreenshots] = useState<PendingScreenshot[]>([])
+  const [saving, setSaving] = useState(false)
+  const [error, setError] = useState('')
 
   const select = (key: PartKey, id: string | undefined) => {
     setSelection((prev) => ({ ...prev, [key]: id }))
     setOpenPart(null)
   }
 
-  const handleSubmit = (e: FormEvent) => {
+  const handleSubmit = async (e: FormEvent) => {
     e.preventDefault()
-    if (!name.trim()) return
-    onSubmit({ name: name.trim(), items: selection, memo: memo.trim() })
+    if (!name.trim() || saving) return
+    setSaving(true)
+    setError('')
+    const screenshotIds: string[] = []
+    try {
+      for (const { blob } of screenshots) screenshotIds.push(await saveScreenshot(blob))
+    } catch {
+      // 途中まで保存できた分は残さない
+      deleteScreenshots(screenshotIds).catch(() => {})
+      setError('スナップの保存に失敗しました。ブラウザの空き容量を確認してください')
+      setSaving(false)
+      return
+    }
+    onSubmit({
+      name: name.trim(),
+      items: selection,
+      memo: memo.trim(),
+      ...(screenshotIds.length > 0 && { screenshotIds }),
+    })
     setName('')
     setSelection({})
     setMemo('')
+    setScreenshots([])
     setOpenPart(null)
+    setSaving(false)
   }
 
   return (
@@ -48,6 +72,8 @@ export function CoordinateForm({ onSubmit }: Props) {
           required
         />
       </label>
+
+      <ScreenshotInput value={screenshots} onChange={setScreenshots} />
 
       <span className={fieldLabel}>アイテム</span>
       <div className="mb-4 divide-y divide-subtle border-y border-subtle">
@@ -76,12 +102,14 @@ export function CoordinateForm({ onSubmit }: Props) {
         />
       </label>
 
+      {error && <p className="mb-3 text-xs text-rose-500">{error}</p>}
+
       <button
         type="submit"
-        disabled={!name.trim()}
+        disabled={!name.trim() || saving}
         className={primaryButton}
       >
-        保存する
+        {saving ? '保存中…' : '保存する'}
       </button>
     </form>
   )
